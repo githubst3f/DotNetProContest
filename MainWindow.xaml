@@ -1,0 +1,88 @@
+﻿<Window x:Class="DotNetProContest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DotNetProContest"
+        xmlns:charting="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        mc:Ignorable="d"
+        Title="DotNetProContest" Height="350" Width="525">
+    <DockPanel LastChildFill="true">
+        <Menu IsMainMenu="true"
+              DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Open..." />
+                <Separator />
+                <MenuItem Header="_Exit" />
+            </MenuItem>
+        </Menu>
+                
+        <Grid DockPanel.Dock="Right" Width="200">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="10"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <DataGrid>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Schlagwort" 
+                                        Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <charting:Chart Grid.Row="2">
+                <charting:PieSeries>
+                    
+                </charting:PieSeries>
+            </charting:Chart>
+        </Grid>
+
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBar.Items>
+                <TextBlock Text="etc..." />
+            </StatusBar.Items>
+        </StatusBar>
+
+        <RichTextBox x:Name="rtb">
+            <FlowDocument>
+                <Paragraph FontSize="36">Hello World!</Paragraph>
+                <Paragraph FontStyle="Italic"
+                           Foreground="Gray"
+                           FontSize="14">
+                    Oh wie ist das schön!
+                </Paragraph>
+                <List>
+                    <ListItem>
+                        <Paragraph>
+                            <Run>Item1</Run>
+                        </Paragraph>
+                    </ListItem>
+                    <ListItem>
+                        <Paragraph>
+                            <Run>Item2</Run>
+                        </Paragraph>
+                    </ListItem>
+                </List>
+                <Table>
+                    <TableRowGroup>
+                        <TableRow>
+                            <TableCell>
+                                <Paragraph>Cell1</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>Cell2</Paragraph>
+                            </TableCell>
+                        </TableRow>
+                        <TableRow>
+                            <TableCell>
+                                <Paragraph>Cell3</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>Cell4</Paragraph>
+                            </TableCell>
+                        </TableRow>
+                    </TableRowGroup>
+                </Table>
+            </FlowDocument>
+        </RichTextBox>
+    </DockPanel>
+</Window>
