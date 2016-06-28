@@ -6,11 +6,12 @@
         xmlns:local="clr-namespace:DotNetProContest"
         xmlns:charting="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
         mc:Ignorable="d"
-        Title="DotNetProContest" Height="350" Width="525">
+        Title="DotNetProContest" Height="350" Width="525"
+        DataContext="{Binding RelativeSource={RelativeSource Mode=Self}, Path=ViewModelMainWindow}">
     <DockPanel LastChildFill="true">
         <Menu IsMainMenu="true"
               DockPanel.Dock="Top">
-            <MenuItem Header="_File">
+            <MenuItem Header="File">
                 <MenuItem Header="_Open..." />
                 <Separator />
                 <MenuItem Header="_Exit" />
