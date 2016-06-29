@@ -27,7 +27,7 @@
             </Grid.RowDefinitions>
             <DataGrid>
                 <DataGrid.Columns>
-                    <DataGridTextColumn Header="Schlagwort" 
+                    <DataGridTextColumn Header="Keyword" 
                                         Width="*"/>
                 </DataGrid.Columns>
             </DataGrid>

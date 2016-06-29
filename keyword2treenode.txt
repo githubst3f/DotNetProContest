@@ -1,0 +1,3179 @@
+
+
+
+Beitragsart 187
+
+
+
+Beitrag 585411 (Master
+
+
+Beitrag 528413): Baum 42: Keine passenden Knoten gefunden (((
+ Der Software-Entwickler Gupta ist OASIS, der Organzation for the Advancement of Structured Information Standards, beigetreten.
+  Gupta unterstützt OASIS
+  Diese Vereinigung setzt sich aus Vertretern der Software-Industrie zusammen und will die Verbreitung von Standards im elektronischen Geschäftsverkehr vorantreiben. Als eines der Sponsor-Mitglieder wird Gupta dafür sorgen, dass OASIS über die nötige Infrasstruktur verfügt, um die Arbeit der Organisation leisten zu können. Das Software-Haus will künftig auch in den OASIS-Kommittees mitarbeiten.
+    Datenbanken 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3140 "Datenbanken"
+
+
+
+Beitrag 585412 (Master
+
+
+Beitrag 528411): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3140 "Datenbanken", 3195 "Visual Studio", 3144 "Delphi", 3142 "Datenzugriff", 3114 ".NET", 3171 "Objekte", 3192 "Tools", 3181 "Protokolle"
+
+
+
+Beitrag 585413 (Master
+
+
+Beitrag 528406): Baum 42: Keine passenden Knoten gefunden (((
+   Betaversion von "Longhorn" einige Tage früher veröffentlicht
+  Vista-Beta ist online
+  Im Windows Vista Developer Center des Microsoft Developer Networks (MSDN) hat Microsoft die Betaversion der kommenden Windows-Version - bisher als Longhorn bekannt - schon einige Tage vor dem angekündigten Termin zum Download für MSDN-Abonnenten freigegeben. Einen groben Überblick über das neue System, das unter anderem schon den Internet Explorer 7 enthält, gibt eine Webseite unter der Adresse http://www.microsoft.com/presspass/newsroom/winxp/VistaBeta1FS.mspx einzusehen. Als Systemvoraussetzung gibt Microsoft mindestens 512 MByte Arbeitsspeicher und eine DirectX-Grafikkarte an.
+
+Info:
+$(LEhttp://www.microsoft.com/presspass/newsroom/winxp/VistaBeta1FS.mspx:http://www.microsoft.com/presspass/newsroom/winxp/VistaBeta1FS.mspx|_blank)$
+  Windows, DirectX, Objekte, Protokolle, Webbrowser 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3202 "Windows", 3147 "DirectX", 3171 "Objekte", 3181 "Protokolle", 3198 "Webbrowser"
+
+
+
+Beitrag 585415 (Master
+
+
+Beitrag 528419): Baum 42: Knotenzuordnungen: 3440 "Update" Baum 43: Knotenzuordnungen: 3119 "Algorithmen", 3171 "Objekte", 3114 ".NET", 3181 "Protokolle"
+
+
+
+Beitrag 585425 (Master
+
+
+Beitrag 528383): Baum 42: Knotenzuordnungen: 2785 "Core" Baum 43: Knotenzuordnungen: 3129 "Business", 3158 "Hardware"
+
+
+
+Beitrag 585430 (Master
+
+
+Beitrag 528371): Baum 42: Keine passenden Knoten gefunden (((
+ Software-Patente scheitern in Brüssel
+  Das Europäische Parlament hat gestern die von der EU-Kommission vorgelegte Richtlinie zu Software-Patenten mit 648 von 680 abgegebenen Stimmen abgelehnt. Damit ist die Kommission mit ihrem Plan, Computerprogramme patentierbar zu machen, vorerst gescheitert.
+
+Die Debatte der Richtlinie "zur Patentierbarkeit Computer-implementierter Erfindungen", wie ihr eigentlicher Name lautet, währt seit 2001. Das Regelwerk sollte die unterschiedlichen Vorschriften in den EU-Mitgliedsländern vereinheitlichen. Der Entwurf führte schnell zur Lagerbildung: grob gesagt die Vertreter der großen Industrie und etablierten nationalen Parteien auf der einen Seite, die Vertreter kleiner Firmen und freier Programmierer, die Verfechter des Open-Source-Prinzips und die Abgeordneten des Europäischen Parlaments andererseits.
+
+Bei der ersten Lesung im EU-Parlament im September 2003 stimmen die Abgeordneten mehrheitlich gegen den Entwurf, da er ihrer Meinung nach den Begriff des "technischen 
+
+
+Beitrags" nicht klar genug fasste. Sie versahen die Vorlage mit Zusätzen, um Computerprogramme als solche von der Patentierbarkeit freizustellen, und forderten die Kommission auf, die Auswirkungen der Richtlinie vor allem auf kleine Unternehmen zu untersuchen.
+
+Im März 2005 einigten sich die Minister der EU-Mitgliedsstaaten auf einen geänderten Entwurf, der jedoch die Wünsche des EU-Parlaments weitgehend ignorierte. Ein Hearing mit Rechtsexperten im Parlament ergab, dass der Begriff des "technischen 
+
+
+Beitrags" nach wie vor unklar sei und die Patentierbarkeit von Software als solcher ermögliche. Der Ausschuss machte sich jedoch die Position der Industrie zueigen, wies die Anmerkungen des Parlaments überwiegend zurück und sprach sich für den neuen Entwurf und die Patentierbarkeit von Programmen aus. Damit ist er nach der gestrigen Abstimmung gescheitert.
+
+Die bisherige Situation
+
+Laut des Europäischen Patentübereinkommens von 1973 wird ein Patent nur einer Erfindung erteilt, die eine neuartige Lösung bietet und industriell anwendbar ist. Patente auf Computerprogramme sind ausdrücklich ausgeklammert. Trotzdem hat das Europäische Patentamt Tausende von Software-bezogenen Erfindungen patentiert. Bei einer ABS-Bremse beispielsweise betrachtet es die Software als einen "technischen 
+
+
+Beitrag" und deshalb als (mit-)patentierbar.
+
+Die bisherigen Richtlinien gelten zwar in den Mitgliedsstaaten des Patentabkommens, werden jedoch mitunter sehr unterschiedlich interpretiert. Der Kommissionsentwurf von 2002 sollte diese Unklarheiten eindämmen und die nationalen Patentvorschriften vereinheitlichen. Wie gehabt sollte Software nur dann geschützt sein, wenn sie in Verbindung mit einem Gerät einen "technischen 
+
+
+Beitrag" leiste. Reine Algorithmen sollten nicht betroffen sein.
+
+Die großen Software-Firmen wollten auch Programme selbst komplett schützen. Kleinere Unternehmen bevorzugten einen lockereren Schutz, der sich auf die Gesamtlösung bezieht und sich nicht auf die Software konzentriert und die darunterliegende Software ungeschützt lässt. Viele kleinere Firmen bevorzugten ein am Urheberrecht orientiertes System, wobei sie jedoch vor allem die verwaltungstechnischen Kosten im Blick hatten, die ein Patentantrag mit sich bringt.
+
+Patent und Urheberrecht
+
+Ein Patent gewährt dem Patenteigner ein Besitzrecht und verbietet es anderen, das Verfahren zu verwenden. Es wird gewöhnlich für 20 Jahre gewährt. Das Recht kann verkauft, vermietet oder lizensiert werden. Ein Urheberrecht schützt eine Arbeit, die auf einer Idee oder einem Konzept beruht. Darunter fallen beispielsweise künstlerische Werke aus Literatur, Musik und Film. Es verbietet, ein solches Werk ohne Erlaubnis des Urhebers zu kopieren oder kommerziell zu verwerten und ist 70 Jahre lang gültig. Im Gegensatz zu Patentanträgen lässt sich ein Urheberrecht relativ einfach und günstig registrieren. Die Kosten eines Patentantrags liegen dagegen zwischen 10 000 Euro in den USA und 50 000 Euro beim Europäischen Patentamt.
+
+Beim Europäischen Patentamt in München machen Software-bezogene Anträge inzwischen mehr als 15 Prozent aller vorgelegten Erfindungen aus. Nach einer Studie von Daniel Johnson, Assisant Professor am Economics & Business Department des Colorado College, besitzen kleinere und mittlere Firmen etwa 20 Prozent aller in den vergangenen fünf Jahren vom Europäischen Patentamt erteilten Software-Patente. Die anderen 80 Prozent sind im Besitz der großen Industrie oder von Behörden.
+
+Das Europäische Patentamt ist übrigens keine Institution der EU, sondern das Exekutivorgan der Europäischen Patentorganisation und wurde von eruopäischen Staaten 1973 in München durch das Europäischen Patentübereinkommen gegründet.
+  Das Europäische Parlement hat sich gegen den Entwurf der Kommission ausgesprochen.
+    Algorithmen, Business 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3119 "Algorithmen", 3129 "Business"
+
+
+
+Beitrag 585431 (Master
+
+
+Beitrag 528369): Baum 42: Keine passenden Knoten gefunden (((
+ Frei erhÃ¤ltliches Visual MainWin for J2EE-Entwickler und Enterprise-Produktsuite verbindet 'Visual Studio'-Entwicklung mit Linux, J2EE-Server-Bereitstellungen
+  MainsoftÂ® Corporation, das plattformÃ¼bergreifende Entwicklungsunternehmen, stellte heute Visual MainWinÂ® fÃ¼r J2EEâ„¢-Entwickler in Europa vor. Dieses als 'Grasshopper' bezeichnete, frei erhÃ¤ltliche 'Visual Studio'Â® .NET-Plugin ermÃ¶glicht 'Visual Studio'-Entwicklern, zÃ¼gig Internet-Anwendungen fÃ¼r LinuxÂ® zu entwickeln. Technische Artikel und Community-Foren stehen den Entwicklern unentgeltlich zur VerfÃ¼gung, wenn sie sich unter http://dev.mainsoft.com registrieren.
+
+Info:
+$(LEhttp://www.mainsoft.com:www.mainsoft.com|_blank)$
+    Mainsoft prÃ¤sentiert auf der 'Tech Ed' das Programm 'Visual Studio fÃ¼r Linux'
+  Visual Studio, .NET, Java, Objekte, Plattformen, Protokolle, Server 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3163 "Java", 3171 "Objekte", 3177 "Plattformen ", 3114 ".NET", 3181 "Protokolle", 3184 "Server"
+
+
+
+Beitrag 585432 (Master
+
+
+Beitrag 528367): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3192 "Tools", 3201 "Webstack"
+
+
+
+Beitrag 585433 (Master
+
+
+Beitrag 527982): Baum 42: Keine passenden Knoten gefunden (((
+ Microsoft hat eine neue Office-Version für Selbständige und kleine Unternehmen angekündigt. Darin sollen drei Programme verzahnt werden: eine neu entwickelte Buchführungssoftware, Microsoft Office Small Business Edition 2003 und der Business Contact Manager. Kleine Unternehmen können damit über die Office-Umgebung ihre Buchhaltung führen und die wichtigsten Kunden-, Finanz- und Unternehmensdaten verwalten.
+
+Bis die Software auf den Markt kommt, vergeht allerdings noch einige Zeit. Sie soll erst ab Ende 2005 in den USA erhältlich sein. In Deutschland wird das Paket "deutlich später" auf den Markt kommen.
+    Spezielles MS Office für kleine Unternehmen
+  Kombination der Small Business Edition mit Buchführungsprogramm und Kontaktverwaltung
+  Office, Business 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3172 "Office", 3129 "Business"
+
+
+
+Beitrag 585436 (Master
+
+
+Beitrag 528361): Baum 42: Knotenzuordnungen: 3440 "Update" Baum 43: Knotenzuordnungen: 3156 "Frameworks", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585437 (Master
+
+
+Beitrag 528359): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3174 "Outlook", 3137 "Controls", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585438 (Master
+
+
+Beitrag 528259): Baum 42: Keine passenden Knoten gefunden (((
+ Das MSI-Tool ist bis auf Weiteres "vom Netz genommen".
+  Microsoft hat das Installationspaket für Windows Installer (MSI) 3.1 vorübergehend aus seinem Download-Bereich entfernt. Der Grund sind Kompatibilitätsprobleme, die die Software bei bestimmten Anwendungen zeigt. Auch der Knowledge-Base-Artikel mit den Versionshinweisen ist derzeit nicht verfügbar. Das Installationspaket soll "in Kürze" wieder verfügbar sein.
+  Kompatibilitätsprobleme von Windows Installer 3.1
+    Installation, Windows 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3160 "Installation", 3202 "Windows"
+
+
+
+Beitrag 585466 (Master
+
+
+Beitrag 528087): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3181 "Protokolle", 3189 "Sprachen", 3135 "Code-Tools", 3114 ".NET", 3124 "ASP.NET", 3130 "C#", 3202 "Windows", 3164 "Kommunikation", 3192 "Tools", 3198 "Webbrowser", 3143 "Debug, Trace, Profile", 3171 "Objekte", 3177 "Plattformen ", 3184 "Server", 3134 "Code"
+
+
+
+Beitrag 585468 (Master
+
+
+Beitrag 528177): Baum 42: Keine passenden Knoten gefunden (((
+ Eine neue Betaversion - offiziell als Community Technology Preview bezeichnet - von Avalon und Indigo für Windows XP und Windows Server 2003 hat Microsoft öffentlich zur Verfügung gestellt. Avalon ist der Name für das neue GUI-System der nächsten Windows-Version Longhorn. Indigo entwickelt die bestehenden Kommunikationssysteme für Software-Komponenten weiter und soll über alle bisherigen Protokolle und Mechanismen eine einheitliche Schicht stülpen. Die englische Betaversion ist als Image-Datei im ISO-9660-Format verfügbar und umfasst knapp 445 MByte.
+
+Info:
+$(LEhttp://www.microsoft.com/downloads/details.aspx?familyid=85ab132b-f1aa-4422-b053-272d79863013&displaylang=en:http://www.microsoft.com/downloads/details.aspx?familyid=85ab132b-f1aa-4422-b053-272d79863013&displaylang=en|_blank)$
+    Nach den MSDN-Abonnenten stehen die Technologien nun allen Programmierern und Interessierten zur Verfügung.
+  Avalon und Indigo als Download
+  Windows, Frameworks, Protokolle, Server 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3202 "Windows", 3156 "Frameworks", 3181 "Protokolle", 3171 "Objekte", 3184 "Server"
+
+
+
+Beitrag 585469 (Master
+
+
+Beitrag 528043): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3116 "ADO.NET", 3114 ".NET", 3140 "Datenbanken", 3190 "SQL Server", 3142 "Datenzugriff", 3184 "Server", 3134 "Code", 3171 "Objekte", 3177 "Plattformen ", 3181 "Protokolle"
+
+
+
+Beitrag 585470 (Master
+
+
+Beitrag 528179): Baum 42: Keine passenden Knoten gefunden (((
+   Neues Tool für das Refactoring.
+  Mit CSCop Code riechen
+  Auf der CeBit 2005 hat Microsoft wieder einmal gezeigt, dass die jährlich sechs Milliarden Dollar Investition in die Forschung greifbare und nützliche Produkte hervorbringen kann. Mit dem CSCop ist Microsoft im Bereich der Programmiertools dem Wettbewerb nun im wahrsten Sinne des Wortes eine Nasenlänge voraus. Softwareentwicklung wird nun endlich zu einem sinnlichen Erlebnis. Zerstückelter Code riecht schlecht, gut strukturierter Code riecht gut. 
+Wann das Tool auf den Markt kommt ist noch nicht bekannt. Sie können aber ab heute, 1. April 2005 am Beta-Test teilnehmen.
+
+Info:
+$(LEhttp://www.dotnetpro.de/articles/webarticle19.aspx:http://www.dotnetpro.de/articles/webarticle19.aspx|_blank)$
+  Code, Clean-Code 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3134 "Code", 3132 "Clean-Code", 3149 "dotnetpro", 3181 "Protokolle"
+
+
+
+Beitrag 585471 (Master
+
+
+Beitrag 528025): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3185 "SharePoint", 3195 "Visual Studio", 3202 "Windows", 3125 "Basic", 3114 ".NET", 3130 "C#", 3184 "Server", 3159 "IDE, Editor", 3189 "Sprachen", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585472 (Master
+
+
+Beitrag 528243): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3125 "Basic", 3159 "IDE, Editor", 3114 ".NET", 3131 "CI-Tools", 3189 "Sprachen", 3181 "Protokolle", 3192 "Tools"
+
+
+
+Beitrag 585474 (Master
+
+
+Beitrag 528181): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3160 "Installation", 3165 "Lizenzierung", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585477 (Master
+
+
+Beitrag 528187): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3189 "Sprachen", 3195 "Visual Studio", 3134 "Code", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585478 (Master
+
+
+Beitrag 528189): Baum 42: Knotenzuordnungen: 3440 "Update" Baum 43: Knotenzuordnungen: 3170 "Mono", 3114 ".NET", 3171 "Objekte", 3177 "Plattformen ", 3181 "Protokolle"
+
+
+
+Beitrag 585479 (Master
+
+
+Beitrag 528191): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3159 "IDE, Editor", 3189 "Sprachen", 3114 ".NET", 3120 "ALM", 3123 "Architektur", 3134 "Code", 3180 "Projekt", 3181 "Protokolle"
+
+
+
+Beitrag 585481 (Master
+
+
+Beitrag 528195): Baum 42: Keine passenden Knoten gefunden (((
+ Ein neues Online-Angebot soll den Umsteig auf VB.NET erleichtern.
+  Ein Herz für Anwender von Visual Basic 6.0
+  Wer im Microsoft Developer Network auf die Seite des Visual Basic Developer Centers gerät, findet dort den Hinweis auf ein neues Online-Angebot für Entwickler: VBRun, the Visual Basic 6.0 Resource Center. Es bündelt verschiedene MSDN-Angebote zum Thema. "Greatest Hits" ist eine Sammlung von VB-6.0-Angeboten der MSDN Library. "VB Fusion" ist dem Vergleich zwischen Visual Basic 6 und Visual Basic .NET gewidmet und wie beide zusammenarbeiten. "Stay the Path" ist für Entwickler gedacht, die VB.NET erkunden wollen. Das Angebot soll wöchentlich aktualisiert werden.
+
+Info:
+$(LEhttp://msdn.microsoft.com/VBRun/:http://msdn.microsoft.com/VBRun/|_blank)$
+    Basic, .NET 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3125 "Basic", 3114 ".NET", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585488 (Master
+
+
+Beitrag 528115): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3140 "Datenbanken", 3142 "Datenzugriff", 3114 ".NET", 3192 "Tools", 3184 "Server", 3134 "Code", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585489 (Master
+
+
+Beitrag 528109): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3156 "Frameworks", 3177 "Plattformen ", 3189 "Sprachen", 3171 "Objekte", 3193 "User Interface", 3161 "Interface", 3181 "Protokolle"
+
+
+
+Beitrag 585490 (Master
+
+
+Beitrag 528139): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3203 "Windows Forms", 3114 ".NET", 3184 "Server", 3181 "Protokolle"
+
+
+
+Beitrag 585491 (Master
+
+
+Beitrag 528107): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3128 "Borland", 3192 "Tools", 3181 "Protokolle"
+
+
+
+Beitrag 585492 (Master
+
+
+Beitrag 528119): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3168 "Mobile", 3177 "Plattformen ", 3180 "Projekt"
+
+
+
+Beitrag 585493 (Master
+
+
+Beitrag 527962): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3148 "Dokumentation", 3125 "Basic", 3189 "Sprachen", 3130 "C#", 3202 "Windows", 3114 ".NET", 3181 "Protokolle"
+
+
+
+Beitrag 585494 (Master
+
+
+Beitrag 528031): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3159 "IDE, Editor", 3114 ".NET", 3134 "Code", 3192 "Tools", 3181 "Protokolle"
+
+
+
+Beitrag 585495 (Master
+
+
+Beitrag 528013): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3114 ".NET", 3148 "Dokumentation", 3166 "Mapping", 3142 "Datenzugriff", 3171 "Objekte", 3123 "Architektur"
+
+
+
+Beitrag 585496 (Master
+
+
+Beitrag 528039): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3122 "API", 3142 "Datenzugriff", 3195 "Visual Studio", 3114 ".NET", 3171 "Objekte", 3181 "Protokolle", 3184 "Server", 3128 "Borland", 3144 "Delphi"
+
+
+
+Beitrag 585497 (Master
+
+
+Beitrag 528161): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585512 (Master
+
+
+Beitrag 527978): Baum 42: Knotenzuordnungen: 3214 "Workout" Baum 43: Keine passenden Knoten gefunden (((
+ Mitte Oktober haben sich 13 Microsoft-Certified-Partner auf einer zweitägigen Partnerkonferenz in Frankfurt zum "Microsoft Partner Netzwerk e.V." (MSPN) zusammengeschlossen. Auf diese Weise wollen die Mitglieder gemeinsam Vertriebswege ausbauen und Lösungen fördern. Das MSPN ist Teil der International Association of Microsoft Certified Partners und kann auf so sowohl eine nationale als auch weltweite Kooperationsplattform sowie Unterstützung in der Zusammenarbeit mit Microsoft anbieten. Zu den Gründungsmitgliedern zählen Bechtle, Brainconsult, Conciety, Econet, Eicon Networks, Infowan, ITA Systemhaus, ITVT, Lanworks, Mindjet, PC-Studio, Phat Consulting und Pica.
+  Mitglieder wollen Vertriebswege ausbauen
+    Microsoft-Certified-Partner gründen Netzwerk
+ 
+))) 
+
+
+
+Beitrag 585518 (Master
+
+
+Beitrag 528231): Baum 42: Keine passenden Knoten gefunden (((
+ Komponentenhersteller 9rays.net hat das Control FlyGrid.Net - es ist ein Steuerelement zum Darstellen von TreeViews und DataGrids - in der aktuellen Version 1.0.2 erweitert. Zu den obligatorischen Fehlerbereinigungen gesellen sich Verbesserungen, die sich beispielsweise in verschachtelten Grids und mehrfachen Darstellungen, so genannten Splitted Views, niederschlagen.
+
+Info:
+$(LEhttp://www.9rays.net:http://www.9rays.net|_blank)$
+  Ersatz für das .NET-DataGrid für vielfältige Layouts.
+  FlyGrid.Net 1.0.2
+    .NET 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3114 ".NET", 3181 "Protokolle"
+
+
+
+Beitrag 585519 (Master
+
+
+Beitrag 528233): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3124 "ASP.NET", 3122 "API", 3114 ".NET", 3158 "Hardware", 3171 "Objekte", 3193 "User Interface", 3161 "Interface", 3181 "Protokolle"
+
+
+
+Beitrag 585520 (Master
+
+
+Beitrag 528235): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3140 "Datenbanken", 3129 "Business", 3177 "Plattformen ", 3181 "Protokolle"
+
+
+
+Beitrag 585521 (Master
+
+
+Beitrag 528217): Baum 42: Keine passenden Knoten gefunden (((
+ Gemeinsam mit Partnern aus Wirtschaft, Politik und Wissenschaft will Microsoft Deutschland High-Tech-Gründer künftig mit einem Internetportal unterstützen. Das Online-Angebot bietet Gründerworkshops mit den Schwerpunkten Marketing, Vertrieb und Technik, Zugang zu Netzwerkveranstaltungen von Partnern und Kunden der Initiatoren, Patenschaften sowie die Bereitstellung von Soft- und Hardware zu besonders günstigen Konditionen. In diesem Jahr sollen 500 Firmen in das Programm aufgenommen kommen.
+
+Info:
+$(LEhttp://www.microsoft.com/germany/gruender/:http://www.microsoft.com/germany/gruender/|_blank)$
+  Beistand für neue Technologie-Unternehmen
+  Microsoft und Partner fördern High-Tech-Gründer in Deutschland
+    Hardware 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3158 "Hardware", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585522 (Master
+
+
+Beitrag 528219): Baum 42: Keine passenden Knoten gefunden (((
+ Windows Installer 3.1
+  Microsoft hat den Windows Installer (MSI) 3.1, der bereits Bestandteil des Windows Server 2003 Service Pack 1 ist, nun auch als einzelne Komponente zur Verfügung gestellt.
+    Das Tool unterstützt alle Windows-Versionen ab Windows 2000 SP 3 der 32-Bit-Sparte. Mit den Updates des monatlichen Patchdays Mitte April dürfte das Tool automatisch auf den meisten Windows-Systemen landen. Einen Überblick über neue Merkmale und Fehlerkorrekturen enthält der Knowledgebase-
+
+
+Beitrag $(LEhttp://support.microsoft.com/?scid=kb%3Ben-us%3B893803&x=9&y=14:893803|_blank)$.
+
+Das weiterverteilbare Paket für MSI 3.0 darf nicht auf einem Computer ausgeführt werden, auf dem bereits MSI 3.1 oder eine spätere Version vorhanden ist. Durch einen Fehler im Setup für MSI 3.0 kann die den Windows Installer Dienst beschädigen.
+
+Info:
+$(LEhttp://www.microsoft.com/downloads/details.aspx?FamilyID=889482fc-5f56-4a38-b838-de776fd4138c&DisplayLang=de:http://www.microsoft.com/downloads/details.aspx?FamilyID=889482fc-5f56-4a38-b838-de776fd4138c&DisplayLang=de|_blank)$
+  Windows, Installation, Server 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3202 "Windows", 3160 "Installation", 3171 "Objekte", 3184 "Server", 3181 "Protokolle"
+
+
+
+Beitrag 585523 (Master
+
+
+Beitrag 528221): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3137 "Controls", 3203 "Windows Forms", 3198 "Webbrowser", 3204 "Word", 3114 ".NET", 3171 "Objekte", 3189 "Sprachen", 3181 "Protokolle"
+
+
+
+Beitrag 585524 (Master
+
+
+Beitrag 528223): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3114 ".NET", 3171 "Objekte", 3181 "Protokolle", 3195 "Visual Studio", 3172 "Office", 3122 "API", 3192 "Tools"
+
+
+
+Beitrag 585525 (Master
+
+
+Beitrag 528225): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3159 "IDE, Editor", 3120 "ALM", 3122 "API", 3123 "Architektur", 3114 ".NET", 3131 "CI-Tools", 3189 "Sprachen", 3200 "Websites", 3181 "Protokolle", 3192 "Tools"
+
+
+
+Beitrag 585533 (Master
+
+
+Beitrag 528069): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3170 "Mono", 3173 "Open Source", 3128 "Borland", 3140 "Datenbanken", 3171 "Objekte", 3180 "Projekt", 3184 "Server", 3189 "Sprachen", 3181 "Protokolle"
+
+
+
+Beitrag 585534 (Master
+
+
+Beitrag 528213): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3171 "Objekte", 3201 "Webstack", 3202 "Windows", 3156 "Frameworks", 3114 ".NET", 3181 "Protokolle"
+
+
+
+Beitrag 585536 (Master
+
+
+Beitrag 528205): Baum 42: Keine passenden Knoten gefunden (((
+ Der Interpreter paxScript - ursprünglich für Win32 entwickelt und seit kurzem auch für .NET verfügbar - unterstützt paxPascal, paxBasic, paxC und paxJavaScript. Die .NET-Variante paxScript.NET enthält einen C#-Interpreter, der Programme in Byte-Code umwandelt. Der Interpreter steht als .NET-DLL zur Verfügung und lässt sich mit Visual Studio .NET, Delphi 8, Delphi 2005 und C# Builder in eigene Anwendungen einbinden. Die nun erschienene Version 1.01 unterstützt auch das .NET Compact Framework.
+
+Künftig soll paxScript.NET durch die Basic.NET- and Delphi.NET-Interpreter erweitert werden. Verantwortlich für paxScript.NET zeichnet VIRT Laboratory von Alexander Baranovsky. paxScript kostet ohne Quellcode knapp 40 US-Dollar und bietet dafür freien Support und Updates für 18 Monate. Inklusive Quellcode kommt eine Einzellizenz auf 190 Dollar, eine Site-Lizenz auf 380 Dollar.
+
+Info:
+$(LEhttp://www.paxscript.net:http://www.paxscript.net|_blank)$
+    .NET-Interpreter für Smart-Device-Projekte
+  paxScript.NET 1.01 unterstützt das Compact Framework
+  .NET, Basic, C#, Code, Delphi, Sprachen, Visual Studio 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3114 ".NET", 3130 "C#", 3195 "Visual Studio", 3125 "Basic", 3144 "Delphi", 3189 "Sprachen", 3134 "Code", 3181 "Protokolle"
+
+
+
+Beitrag 585538 (Master
+
+
+Beitrag 528209): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3114 ".NET", 3171 "Objekte", 3193 "User Interface", 3161 "Interface", 3181 "Protokolle"
+
+
+
+Beitrag 585539 (Master
+
+
+Beitrag 528211): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3152 "Excel", 3204 "Word", 3189 "Sprachen", 3181 "Protokolle"
+
+
+
+Beitrag 585544 (Master
+
+
+Beitrag 528129): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3142 "Datenzugriff", 3166 "Mapping", 3114 ".NET", 3123 "Architektur", 3140 "Datenbanken", 3171 "Objekte", 3184 "Server", 3181 "Protokolle"
+
+
+
+Beitrag 585545 (Master
+
+
+Beitrag 527999): Baum 42: Keine passenden Knoten gefunden (((
+ AppSight Black Box protokolliert den Ablauf von Anwendungen.
+  Mit AppSight Black Box will der israelische Software-Hersteller Identify Software mögliche Risiken beim Umstellen von Anwendungen, beispielsweise auf Windows XP Service Pack 2, verringern. Das Programm protokolliert ähnlich wie ein Flugschreiber eine Anwendung während ihrer Laufzeit in Echtzeit - Ereignisse, Bedingungen und Konfigurationseinstellungen des Applikationssystems. Dieses Protokoll lässt sich quasi abspielen und analysieren, um der Ursache von Applikationsproblemen aller Art im Zusammenhang mit Leistung, Konfiguration, Bedienungs- oder Code-Fehlern auf den Grund zu gehen. Dazu erstellen die IT-Mitarbeiter ein Protokoll der Anwendung, beispielsweise unter Windows XP SP 2, und vergleichen es mit einem Protokoll, das auf einem Referenzsystem erstellt wurde, das keine Probleme verursacht. Nach Ansicht des Herstellers lassen sich so bis zu 80 Prozent des normalerweise für die Ursachenforschung erforderlichen Zeitaufwandes sparen.
+
+Info:
+$(LEhttp://www.identify.com:http://www.identify.com|_blank)$
+  Flugschreiber für Anwendungen
+    Windows, Code, Plattformen 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3202 "Windows", 3134 "Code", 3171 "Objekte", 3177 "Plattformen ", 3181 "Protokolle"
+
+
+
+Beitrag 585546 (Master
+
+
+Beitrag 527995): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3172 "Office", 3129 "Business", 3181 "Protokolle"
+
+
+
+Beitrag 585548 (Master
+
+
+Beitrag 528085): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3202 "Windows", 3171 "Objekte", 3114 ".NET", 3181 "Protokolle", 3123 "Architektur"
+
+
+
+Beitrag 585550 (Master
+
+
+Beitrag 528093): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3137 "Controls", 3114 ".NET", 3128 "Borland", 3144 "Delphi", 3181 "Protokolle"
+
+
+
+Beitrag 585551 (Master
+
+
+Beitrag 528059): Baum 42: Keine passenden Knoten gefunden (((
+   Microsoft gibt das Grafiksystem öffentlich frei.
+  Avalon-Preview für alle
+  Microsoft hat die Preview-Version von Avalon, der künftigen Windows-GUI-Engine, als öffentlichen Download zur Verfügung gestellt. Die Version entspricht derjenigen, die seit vergangenen November als Community Technology Preview für MSDN-Mitglieder erhältlich ist. Der Download umfasst etwa 255 Megabyte und enthält das WinFX SDK. Voraussetzung ist Windows XP oder Windows Server 2003. Nähere Informationen zu der Preview stellt Microsoft unter Avalon November 2004 Community Technology Preview bereit.
+
+Info:
+$(LEhttp://www.microsoft.com/downloads/details.aspx?FamilyID=c8f904e1-b4ca-402b-accf-aaa2bd60da74&DisplayLang=en:http://www.microsoft.com/downloads/details.aspx?FamilyID=c8f904e1-b4ca-402b-accf-aaa2bd60da74&DisplayLang=en|_blank)$
+  Windows, API, Server 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3202 "Windows", 3122 "API", 3171 "Objekte", 3184 "Server", 3181 "Protokolle"
+
+
+
+Beitrag 585552 (Master
+
+
+Beitrag 528057): Baum 42: Knotenzuordnungen: 2778 "DNX Navigation" Baum 43: Knotenzuordnungen: 3202 "Windows", 3129 "Business", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585553 (Master
+
+
+Beitrag 528262): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3124 "ASP.NET", 3190 "SQL Server", 3114 ".NET", 3134 "Code", 3142 "Datenzugriff", 3184 "Server", 3156 "Frameworks", 3171 "Objekte", 3199 "Webserver", 3181 "Protokolle"
+
+
+
+Beitrag 585554 (Master
+
+
+Beitrag 528264): Baum 42: Keine passenden Knoten gefunden (((
+ Sharp-Shooter 1.9.1
+    Report Sharp-Shooter 1.9.1, eine Berichtskomponente für .NET von 9rays.net, beherrscht nun auch Texte, die von rechts nach links laufen, also beispielsweise Arabisch.
+
+Info:
+$(LEhttp://www.9rays.net:http://www.9rays.net|_blank)$
+  Die .NET-Komponente schreibt nun auch von rechts nach links.
+  .NET 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3114 ".NET", 3181 "Protokolle"
+
+
+
+Beitrag 585555 (Master
+
+
+Beitrag 528268): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3124 "ASP.NET", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585556 (Master
+
+
+Beitrag 528266): Baum 42: Knotenzuordnungen: 3440 "Update" Baum 43: Knotenzuordnungen: 3114 ".NET", 3198 "Webbrowser", 3201 "Webstack", 3181 "Protokolle"
+
+
+
+Beitrag 585557 (Master
+
+
+Beitrag 528272): Baum 42: Keine passenden Knoten gefunden (((
+ Mit Office auf SAP zugreifen
+    Unter dem Codenamen Mendocino entwickeln Microsoft und SAP ihr erstes gemeinsames Software-Produkt, das 2006 auf den Markt kommen soll. Es verbindet die SAP-Plattform mit den Office-Anwendungen von Microsoft, so dass der Anwender mit seinen gewohnten Büroprogrammen auf SAP-Daten zugreifen kann. Ein großer Vorteil von Mendocino sei, doppelten Aufwand sowie spezielle Schulungen für neue SAP-Systeme zu vermeiden. Mendocino soll Daten der SAP-Lösung zu Zeit-Management, Haushaltskontrolle, Organisations-, Reise- und Kostenmanagement für Office aufbereiten. Außerdem lassen sich mit dem neuen System Informationen zwischen Exchange-Server und SAP-Systemen synchronisieren.
+
+Sowohl SAP als auch Microsoft werden das System vertreiben. So verkauft Microsoft zusätzlich Lizenzen für die SAP Business Process Platform und SAP entsprechend das Microsoft Office System. Ausgewählte Kunden können die Software bereits im vierten Quartal 2005 kennenlernen.
+
+Info:
+$(LEhttp://www.sap.com/mendocino/:http://www.sap.com/mendocino/|_blank)$
+  Mendocino verbindet zwei der wichtigsten Unternehmensplattformen.
+  Office, Business, Exchange, Server 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3172 "Office", 3129 "Business", 3154 "Exchange", 3171 "Objekte", 3184 "Server", 3181 "Protokolle"
+
+
+
+Beitrag 585558 (Master
+
+
+Beitrag 528270): Baum 42: Keine passenden Knoten gefunden (((
+ Die neue XML-Engine von Visual Localize übersetzt beliebige XML-Dateien in alle Landessprachen.
+  Visual Localize 5.04 mit erweiterter XML-Übersetzung
+    Der Anwender kann die Übersetzung einer Datei über ein Visual-Localize-Übersetzungsschema detailliert steuern. Ein konfigurierbarer Filter erlaubt es, bestimmte XML-Knoten bei der Übersetzung einzuschränken oder auszuschließen. So lassen sich beispielsweise nur Knoten übersetzen, die ein bestimmtes Attribut enthalten. Die erweiterte XML-Engine kostet für Visual Localize .NET knapp 579 Euro. Die Version Visual Localize Premium enthält die Komponente von Haus aus.
+
+Info:
+$(LEhttp://www.aitgmbh.de:http://www.aitgmbh.de|_blank)$
+  Sprachen, .NET 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3189 "Sprachen", 3114 ".NET", 3181 "Protokolle"
+
+
+
+Beitrag 585559 (Master
+
+
+Beitrag 528105): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3172 "Office", 3195 "Visual Studio", 3189 "Sprachen"
+
+
+
+Beitrag 585560 (Master
+
+
+Beitrag 528077): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3140 "Datenbanken", 3166 "Mapping", 3190 "SQL Server", 3192 "Tools", 3142 "Datenzugriff", 3184 "Server", 3189 "Sprachen", 3181 "Protokolle"
+
+
+
+Beitrag 585561 (Master
+
+
+Beitrag 528280): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3114 ".NET", 3140 "Datenbanken", 3116 "ADO.NET", 3115 "Access", 3166 "Mapping", 3142 "Datenzugriff", 3171 "Objekte", 3189 "Sprachen", 3181 "Protokolle"
+
+
+
+Beitrag 585562 (Master
+
+
+Beitrag 528278): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3168 "Mobile", 3172 "Office", 3174 "Outlook", 3204 "Word", 3147 "DirectX", 3158 "Hardware", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585563 (Master
+
+
+Beitrag 528276): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3202 "Windows", 3192 "Tools", 3168 "Mobile", 3134 "Code", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585564 (Master
+
+
+Beitrag 528274): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3140 "Datenbanken", 3195 "Visual Studio", 3116 "ADO.NET", 3192 "Tools", 3114 ".NET", 3184 "Server", 3142 "Datenzugriff", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585567 (Master
+
+
+Beitrag 528005): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3124 "ASP.NET", 3122 "API", 3203 "Windows Forms", 3114 ".NET", 3134 "Code", 3138 "Dateiformate", 3158 "Hardware", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585568 (Master
+
+
+Beitrag 528049): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3114 ".NET", 3189 "Sprachen", 3170 "Mono", 3125 "Basic", 3130 "C#", 3163 "Java", 3202 "Windows", 3171 "Objekte", 3120 "ALM", 3123 "Architektur", 3134 "Code", 3181 "Protokolle"
+
+
+
+Beitrag 585569 (Master
+
+
+Beitrag 528159): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3120 "ALM", 3152 "Excel", 3149 "dotnetpro", 3184 "Server", 3129 "Business", 3134 "Code", 3192 "Tools"
+
+
+
+Beitrag 585572 (Master
+
+
+Beitrag 527986): Baum 42: Knotenzuordnungen: 3440 "Update" Baum 43: Knotenzuordnungen: 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 555619 (Master
+
+
+Beitrag 529348): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 555645 (Master
+
+
+Beitrag 529402): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 555788 (Master
+
+
+Beitrag 529757): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 555952 (Master
+
+
+Beitrag 539286): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 555980 (Master
+
+
+Beitrag 539342): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 556842 (Master
+
+
+Beitrag 541081): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 557528 (Master
+
+
+Beitrag 542459): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 557696 (Master
+
+
+Beitrag 549964): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558069 (Master
+
+
+Beitrag 550652): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558209 (Master
+
+
+Beitrag 550935): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558422 (Master
+
+
+Beitrag 551369): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558525 (Master
+
+
+Beitrag 551580): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558572 (Master
+
+
+Beitrag 551674): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558693 (Master
+
+
+Beitrag 551917): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558773 (Master
+
+
+Beitrag 552081): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558786 (Master
+
+
+Beitrag 552107): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558810 (Master
+
+
+Beitrag 552155): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558851 (Master
+
+
+Beitrag 552237): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558863 (Master
+
+
+Beitrag 552261): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558891 (Master
+
+
+Beitrag 552317): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558898 (Master
+
+
+Beitrag 552331): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558910 (Master
+
+
+Beitrag 552355): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558912 (Master
+
+
+Beitrag 552359): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558919 (Master
+
+
+Beitrag 552373): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558932 (Master
+
+
+Beitrag 552399): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558933 (Master
+
+
+Beitrag 552401): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558956 (Master
+
+
+Beitrag 552457): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558964 (Master
+
+
+Beitrag 552473): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558965 (Master
+
+
+Beitrag 552475): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 558986 (Master
+
+
+Beitrag 552517): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559053 (Master
+
+
+Beitrag 552651): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559083 (Master
+
+
+Beitrag 552711): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559098 (Master
+
+
+Beitrag 552741): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559120 (Master
+
+
+Beitrag 552785): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559122 (Master
+
+
+Beitrag 552789): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559243 (Master
+
+
+Beitrag 553038): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559244 (Master
+
+
+Beitrag 553040): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559246 (Master
+
+
+Beitrag 553044): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559269 (Master
+
+
+Beitrag 553090): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559358 (Master
+
+
+Beitrag 553268): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559451 (Master
+
+
+Beitrag 553456): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559463 (Master
+
+
+Beitrag 553480): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559478 (Master
+
+
+Beitrag 553510): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559508 (Master
+
+
+Beitrag 553570): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559509 (Master
+
+
+Beitrag 553572): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559548 (Master
+
+
+Beitrag 553650): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559559 (Master
+
+
+Beitrag 553672): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559611 (Master
+
+
+Beitrag 553776): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559621 (Master
+
+
+Beitrag 553796): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559672 (Master
+
+
+Beitrag 553898): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559699 (Master
+
+
+Beitrag 553952): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559770 (Master
+
+
+Beitrag 554094): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559777 (Master
+
+
+Beitrag 554108): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559783 (Master
+
+
+Beitrag 554120): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559793 (Master
+
+
+Beitrag 554140): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559811 (Master
+
+
+Beitrag 554176): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559818 (Master
+
+
+Beitrag 554190): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559843 (Master
+
+
+Beitrag 554240): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559851 (Master
+
+
+Beitrag 554256): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559870 (Master
+
+
+Beitrag 554294): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559875 (Master
+
+
+Beitrag 554304): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559884 (Master
+
+
+Beitrag 554322): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559897 (Master
+
+
+Beitrag 554348): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559962 (Master
+
+
+Beitrag 554478): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559985 (Master
+
+
+Beitrag 554524): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 559986 (Master
+
+
+Beitrag 554526): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 560037 (Master
+
+
+Beitrag 554628): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 560111 (Master
+
+
+Beitrag 489324): NOEDIT: Checkbox nicht gesetzt
+
+
+
+Beitrag 560112 (Master
+
+
+Beitrag 489436): NOEDIT: Checkbox nicht gesetzt
+
+
+
+Beitrag 561235 (Master
+
+
+Beitrag 561234): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 585414 (Master
+
+
+Beitrag 528403): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3189 "Sprachen", 3198 "Webbrowser", 3140 "Datenbanken", 3171 "Objekte", 3192 "Tools", 3181 "Protokolle"
+
+
+
+Beitrag 585426 (Master
+
+
+Beitrag 528379): Baum 42: Keine passenden Knoten gefunden (((
+ Umfrage bescheinigt der .NET-Version die besseren Karten.
+    "VB.NET ist das bessere System", meinten 50 Prozent der Befragten. Das ergab die Umfrage auf www.dotnetpro.de. 29 Prozent waren aber auch der Meinung, dass sich VB6 überlebt hätte. Das gute System von gestern ist durch ein besseres von heute ersetzt worden.
+Es zeigte sich bei der Umfrage aber auch, dass VB.NET immer noch mit zwei Hauptproblemen zu kämpfen hat. 12 Prozent haben so viel Code in VB6 geschrieben, dass sie ihn unmöglich migrieren können. Und 8 Prozent kommen mit .NET nicht zurecht. 
+Die Umfrage lief vom 10. Juni 2005 bis zum 13. Juli 2005. Es nahmen 378 Leser teil. Auch die neue Umfrage steht zur Abstimmung bereit. "Wie finden Sie wichtige Informationen?" lautet diesmal die Frage. Kommen Sie also auf www.dotnetpro.de und stimmen Sie ab.
+
+Info:
+$(LEhttp://www.dotnetpro.de:www.dotnetpro.de|_blank)$
+  Klares Voting für Visual Basic .NET
+  Basic, .NET, Code, dotnetpro 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3125 "Basic", 3149 "dotnetpro", 3114 ".NET", 3134 "Code"
+
+
+
+Beitrag 585427 (Master
+
+
+Beitrag 528377): Baum 42: Keine passenden Knoten gefunden (((
+ Vier Wochen sind Uwe und Ralf nun schon in der Programmers Rupublic of Vaubekia unterwegs. Nach Besuchen im Kloster oder im Nationalpark kommen sie nächste Woche in ein Modeviertel in Myland. Was sie hier erleben wird nicht verraten. Sie können es aber leicht erfahren, in dem sie an der Reise kostenlos und bequem von zu Hause aus teilnehmen.
+
+Info:
+$(LEhttp://go.microsoft.com/?linkid=3516246:http://go.microsoft.com/?linkid=3516246|_blank)$
+  Die Reise durch Vaubekien
+  Woche fünf
+  Im Modeviertel
+ 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585428 (Master
+
+
+Beitrag 528375): Baum 42: Knotenzuordnungen: 3214 "Workout" Baum 43: Knotenzuordnungen: 3128 "Borland", 3144 "Delphi", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585429 (Master
+
+
+Beitrag 528373): Baum 42: Keine passenden Knoten gefunden (((
+ Webbrowser stellt neues Protokoll für Downloads zur Verfügung.
+    Opera macht's mit BitTorrent
+  Der Browser-Hersteller Opera hat eine Betaversion 8.02 seines Programms veröffentlicht, das für Downloads nun auch das BitTorrent-Protokoll unterstützt. Nachdem die Opera-Server beim Veröffentlichen der jüngsten Version 8 im vergangenen April unter dem Ansturm der User in den Streik traten, wollen die Hersteller dem Anwender mithilfe von BitTorrent einen zweiten Download-Mechanismus anbieten. BitTorrent ermöglicht das schnelle Herunterladen großer Dateien gleichzeitig aus verschiedenen Quellen im Internet. Dies entlastet einzelne Anbieter/Server.
+
+Info:
+$(LEhttp://www.opera.com:http://www.opera.com|_blank)$
+  Server, Webbrowser 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3198 "Webbrowser", 3184 "Server", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585434 (Master
+
+
+Beitrag 528365): Baum 42: Knotenzuordnungen: 3440 "Update" Baum 43: Knotenzuordnungen: 3202 "Windows", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585435 (Master
+
+
+Beitrag 528363): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3125 "Basic", 3195 "Visual Studio", 3114 ".NET", 3163 "Java", 3192 "Tools", 3149 "dotnetpro", 3184 "Server", 3177 "Plattformen "
+
+
+
+Beitrag 585465 (Master
+
+
+Beitrag 528075): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3124 "ASP.NET", 3172 "Office", 3202 "Windows", 3114 ".NET", 3134 "Code", 3171 "Objekte", 3189 "Sprachen", 3181 "Protokolle"
+
+
+
+Beitrag 585467 (Master
+
+
+Beitrag 528045): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3177 "Plattformen ", 3189 "Sprachen", 3181 "Protokolle"
+
+
+
+Beitrag 585473 (Master
+
+
+Beitrag 528201): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3177 "Plattformen ", 3192 "Tools"
+
+
+
+Beitrag 585475 (Master
+
+
+Beitrag 528183): Baum 42: Keine passenden Knoten gefunden (((
+ Das Programm wendet sich an Schüler zwischen 14 und 18 Jahren. Dabei sollen Ideen entstehen, wie sich gemeinnützige Einrichtungen und Verbände in ihrer Arbeit unterstützen lassen. Hier steht weniger die klassische Idee eines Wettbewerbs im Vordergrund als vielmehr eine Art Förderung, die den Schüler bei der Umsetzung des Projekts unterstützt - in Form einer kostenlosen Version von Visual Studio. Die deutschen Teilnehmer können je einen Pocket PC gewinnen. Die Anmeldung läuft bis zum 30. April 2005 über das Microsoft-Community-Portal theSpoke unter www.theSpoke.de.
+
+Info:
+$(LEhttp://www.thespoke.de:http://www.thespoke.de|_blank)$
+  Programmierwettbewerb für deutsche Schüler
+  "You can make a difference" heißt ein Wettbewerb, mit dessen Hilfe Microsoft junge Entwickler und deren soziales Engagement fördern will.
+    Visual Studio, Plattformen 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3177 "Plattformen ", 3181 "Protokolle"
+
+
+
+Beitrag 585476 (Master
+
+
+Beitrag 528185): Baum 42: Knotenzuordnungen: 3214 "Workout" Baum 43: Knotenzuordnungen: 3190 "SQL Server", 3142 "Datenzugriff", 3184 "Server", 3151 "Events", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585480 (Master
+
+
+Beitrag 528193): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3189 "Sprachen", 3114 ".NET", 3130 "C#", 3125 "Basic", 3144 "Delphi", 3192 "Tools", 3181 "Protokolle"
+
+
+
+Beitrag 585482 (Master
+
+
+Beitrag 528197): Baum 42: Keine passenden Knoten gefunden (((
+ Im Rahmen des TechNet-Programms veranstaltet Microsoft in Europa den Gatekeeper Test 2005. Dieses Online-Quiz zum Thema Sicherheit will IT-Profis herausfordern, informieren und weiterbilden. In den vergangenen beiden Jahren war dieser Test in den Niederlanden erfolgreich. Nun lädt das Unternehmen IT-Experten aus 19 Ländern zur Teilnahme am Wettbewerb ein. Wer sein Wissen mit dem Gatekeeper-Test prüfen möchte, kann sich auf der Website www.gatekeepertest.com registrieren.
+
+Info:
+$(LEhttp://www.gatekeepertest.com:http://www.gatekeepertest.com|_blank)$
+    Microsoft sucht den besten europäischen Fachmann für Sicherheitsfragen.
+  Wer wird IT-Sicherheitsexperte?
+  Objekte, Sicherheit 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3171 "Objekte", 3186 "Sicherheit", 3181 "Protokolle"
+
+
+
+Beitrag 585483 (Master
+
+
+Beitrag 528199): Baum 42: Knotenzuordnungen: 3214 "Workout" Baum 43: Knotenzuordnungen: 3173 "Open Source", 3181 "Protokolle"
+
+
+
+Beitrag 585484 (Master
+
+
+Beitrag 528083): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3114 ".NET", 3140 "Datenbanken", 3142 "Datenzugriff", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585485 (Master
+
+
+Beitrag 528241): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3114 ".NET", 3195 "Visual Studio", 3189 "Sprachen", 3170 "Mono", 3149 "dotnetpro", 3181 "Protokolle", 3123 "Architektur", 3171 "Objekte"
+
+
+
+Beitrag 585486 (Master
+
+
+Beitrag 528103): Baum 42: Keine passenden Knoten gefunden (((
+ James Gosling steht australischen Entwicklern Rede und Anwort.
+    Die Website der Entwickler-Community Builder.au hat ein Transkript einer Veranstaltung mit James Gosling veröffentlicht, in der sich der Java-Erfinder unter anderem über das Verhältnis zwischen Microsoft und Sun und der im letzten Jahr vereinbarten Zusammenarbeit der beiden Firmen äußert. Die Vereinbarung habe inzwischen an Bedeutung verloren. Zum einen, weil die EU Microsoft inzwischen gezwungen hat, Informationen wie etwa das Dateiformat der Office-Anwendungen allgemein verfügbar zu machen. Dies komme dem OpenOffice-Projekt zugute. Zum anderen dürfe Sun Informationen, die Microsoft unter das Siegel der Verschwiegenheit stellt wie beispielsweise Interna des Dateisystems, nicht in Open-SourceProjekten wie Samba verwerten. Im Wesentlichen konzentriert sich die Arbeit bei Sun, die sich aus der Vereinbarung der beiden Hersteller ergibt, momentan auf das Identitäts-Management. Builder.au ist eine Entwickler-Community bei Cnet Australien gehört.
+
+Info:
+$(LEhttp://www.builderau.com.au/program/work/0,39024650,39176462,00.htm:http://www.builderau.com.au/program/work/0,39024650,39176462,00.htm|_blank)$
+  Java-Erfinder sieht keinen großen Vorteil in Zusammenarbeit mit Microsoft
+  Java, Office, Projekt 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3163 "Java", 3172 "Office", 3171 "Objekte", 3180 "Projekt", 3181 "Protokolle"
+
+
+
+Beitrag 585487 (Master
+
+
+Beitrag 528055): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3116 "ADO.NET", 3114 ".NET", 3195 "Visual Studio", 3140 "Datenbanken", 3128 "Borland", 3144 "Delphi", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585498 (Master
+
+
+Beitrag 527964): Baum 42: Keine passenden Knoten gefunden (((
+ Flatrate für VoIP
+  Eine Flatrate für Voice over IP bietet das Düsseldorfer Unternehmen Indigo Networks an. Der Tarif Nufone bietet für knapp 20 Euro im Monat das zeitlich unabhängige Telefonieren über das Internet. Allerdings schlägt die einmalige Einrichtungsgebühr mit 100 Euro zu Buche. Voraussetzung ist ein Breitbandanschluss, also DSL oder Kabelmodem, der im Angebot nicht enthalten ist. Ein kostenloser Adapter erlaubt auch den Anschluss analoger Telefone. Der Tarif gilt auch nur für Festnetzgespräche innerhalb Deutschlands. Bei Auslandsgesprächen kommen pro Minute mindestens 2 Cent, bei Mobilfunkverbindungen 20 Cent als Aufschlag dazu. In den Großstädten ist Nufone schon erhältlich, am weiteren Ausbau wird gearbeitet.
+
+Info:
+$(LEhttp://www.nufone.de:http://www.nufone.de|_blank)$
+    Nufone pauschaliert Festnetzgespräche in Deutschland.
+  Frameworks, Sprachen 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3156 "Frameworks", 3189 "Sprachen", 3181 "Protokolle"
+
+
+
+Beitrag 585513 (Master
+
+
+Beitrag 528249): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3189 "Sprachen", 3122 "API", 3140 "Datenbanken", 3171 "Objekte", 3192 "Tools", 3181 "Protokolle"
+
+
+
+Beitrag 585514 (Master
+
+
+Beitrag 528255): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3170 "Mono", 3124 "ASP.NET", 3202 "Windows", 3189 "Sprachen", 3114 ".NET", 3125 "Basic", 3130 "C#", 3203 "Windows Forms", 3137 "Controls", 3115 "Access", 3134 "Code", 3171 "Objekte", 3177 "Plattformen ", 3181 "Protokolle"
+
+
+
+Beitrag 585515 (Master
+
+
+Beitrag 528253): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3125 "Basic", 3134 "Code", 3171 "Objekte", 3192 "Tools", 3181 "Protokolle"
+
+
+
+Beitrag 585516 (Master
+
+
+Beitrag 528227): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3202 "Windows", 3184 "Server", 3158 "Hardware", 3190 "SQL Server", 3142 "Datenzugriff", 3123 "Architektur", 3140 "Datenbanken", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585517 (Master
+
+
+Beitrag 528229): Baum 42: Keine passenden Knoten gefunden (((
+ Auch beim Umsetzen von Stylesheets soll der neue Browser besser sein.
+    IE 7 unterstützt PNG-Alpha-Channels
+  Zur nächsten Version des Internet Explorers hat sich IE-Entwickler Chris Wilson auf seiner Weblog-Seite geäußert. Demnach soll Version 7 endlich Alpha-Channels in PNG-Grafiken unterstützen. Anscheinend strickt Microsoft schon lange an diesem Merkmal, konnte sich aber erst jetzt entschließen, es einzuführen. Desweiteren werden wohl einige der typischen IE-Bugs beim Verarbeiten von Cascading Stylesheets behoben werden. Wilson nennt als Beispiele den so genannten Guillotine- und den Peekaboo-Bug. Der Guillotine-Bug etwa schneidet in DIV-Bereichen, die den Textfluss mit dem Float-Attribut beeinflussen, unter bestimmen Bedingungen den Inhalt einfach ab - abgesehen davon, dass die Darstellung bei den genannten Umständen sowieso nicht dem W3C-Richtlinien entspricht. Ähnlich wirkt sich der Peekaboo-Bug aus, wenn auch unter anderen Voraussetzungen. Die erste Betaversion des Internet Explorers Version 7 soll im Sommer fertig sein.
+
+Auf der Website Position Is Everything unter www.positioniseverything.net sind die einzelnen Nachlässigkeiten genau dokumentiert - nicht nur des Internet Exploreres, sondern auch die der anderen Browser.
+
+Info:
+$(LEhttp://blogs.msdn.com/ie/archive/2005/04/22/410963.aspx:http://blogs.msdn.com/ie/archive/2005/04/22/410963.aspx|_blank)$
+ 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585531 (Master
+
+
+Beitrag 528245): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3172 "Office", 3189 "Sprachen", 3177 "Plattformen ", 3181 "Protokolle"
+
+
+
+Beitrag 585532 (Master
+
+
+Beitrag 528071): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Keine passenden Knoten gefunden (((
+ Der AufwÃ¤rtstrend, der sich bei Dienstleistern der IT-Branche gezeigt hat, scheint schon wieder am Ende zu sein.
+  AufwÃ¤rtstrend in der IT-Branche geht die Luft aus
+    Das Zentrum fÃ¼r EuropÃ¤ische Wirtschaftsforschung (ZEW) in Mannheim hat beim Stimmungsindikator fÃ¼r diesen Wirtschaftszweig im letzten Quartal 2004 einen deutlichen RÃ¼ckgang um mehr als 5 Prozent im Vergleich zum vorhergehenden Quartal festgestellt. Verantwortlich dafÃ¼r macht das ZEW die negativen GeschÃ¤ftserwartungen an das erste Quartal dieses Jahres, der deutlich zurÃ¼ckgegangen seien. Bei der Beurteilung der aktuellen GeschÃ¤ftslage dagegen sah es Ende 2004 nicht so schlecht aus. Hier gab es nur leicht rÃ¼cklÃ¤ufige Werte.
+
+Die Zahl der in der Branche BeschÃ¤ftigten zeige ebenfalls â€“ wie bisher â€“ keine Stabilisierung. Die Erwartungen aus dem dritten Quartal 2004, die Zahl der BeschÃ¤ftigten im vierten Quartal konstant zu halten, habe sich nicht erfÃ¼llt. Per Saldo entlassen demnach mehr als 23 Prozent der Unternehmen Mitarbeiter.
+
+Die Umfrage hat das ZEW zusammen mit dem Verband der Vereine Creditreform, Neuss, im November und Dezember 2004 durchgefÃ¼hrt. An der Umfrage beteiligten sich rund 1000 Unternehmen. Der Wirtschaftszweig Dienstleister der Informationsgesellschaft setzt sich zusammen aus Dienstleistern der Informations- und Kommunikationstechnologie sowie so genannten wissensintensiven Dienstleistern, zu denen die Branchen Steuerberatung, WirtschaftsprÃ¼fung, ArchitekturbÃ¼ros, technische Beratung und Planung, Forschung und Entwicklung sowie Werbung gehÃ¶ren.
+ 
+))) 
+
+
+
+Beitrag 585535 (Master
+
+
+Beitrag 528203): Baum 42: Keine passenden Knoten gefunden (((
+ Das Konsolen-Utility ILMerge erzeugt aus mehreren getrennten .NET-Assemblies eine einzige, sowohl aus EXE- als auch aus DLL-Dateien. Der ersten Assembly der Quelldateien fällt dabei die Rolle zu, die Ausgabedatei zu definieren. Ist sie eine EXE-Datei, so wird die Ausgabedatei ebenfalls zu einer EXE-Datei mit demselben Eintrittspunkt. Gleiches gilt für einen eventuell vorhandenen starken Namen und eine SNK-Datei: In diesen Fällen wird die Zieldatei mit dem entsprechenden Schlüssel der primären Quelldatei gekennzeichnet. Alle Funktionen des Utilities sind auch programmatisch zu steuern.
+
+Info:
+$(LEhttp://www.microsoft.com/downloads/details.aspx?FamilyID=22914587-b4ad-4eae-87cf-b14ae6a939b0&DisplayLang=en:http://www.microsoft.com/downloads/details.aspx?FamilyID=22914587-b4ad-4eae-87cf-b14ae6a939b0&DisplayLang=en|_blank)$
+  ILMerge verschmilzt .NET-Assemblies
+    Neues Entwickler-Tool im Download-Bereich von Microsoft verfügbar.
+  .NET 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3114 ".NET", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585537 (Master
+
+
+Beitrag 528207): Baum 42: Keine passenden Knoten gefunden (((
+ Oracle Class Library 3.00
+  CoreLabs aktualisiert seinen ADO.NET-Provider für Oracle.
+  Die Oracle Class Library unterstützt in der Version 3.00 nun auch das System Oracle 10g sowie Oracle 10g Instant Client. Auch mit den Feldtypen Binary_Double und Binary_Float kann der Provider nun umgehen. Bei den Klassen OraField und CRField steht nun außerdem die neue Funktion getChars zur Verfügung. Außerdem lassen sich nun Datensätze von verschiedenen Ref Cursors-Einstellungen lesen.
+
+Info:
+$(LEhttp://crlab.com:http://crlab.com|_blank)$
+    Datenbanken, ADO.NET 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3116 "ADO.NET", 3140 "Datenbanken", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585540 (Master
+
+
+Beitrag 528019): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3140 "Datenbanken", 3181 "Protokolle", 3171 "Objekte", 3184 "Server", 3192 "Tools"
+
+
+
+Beitrag 585541 (Master
+
+
+Beitrag 528017): Baum 42: Keine passenden Knoten gefunden (((
+ Zukunftstechnologie wird praktisch anwendbar.
+    Neuigkeiten hat IBM dieser Tage nicht nur vom Verkauf seines PC-Geschäfts zu vermelden, sondern auch in Sachen künftiger PC-Technik, genauer gesagt der Nanotechnologie. In der Industrie und den Medien liegt die Aufmerksamkeit bei der Nanotechnologie überwiegend auf ausgefallenen und ausgesprochen futuristischen Beispielen, doch IBM stellt nun praktische Anwendungen vor. In der kommenden Woche auf der IEDM (International Electron Devices Meeting) in San Francisco will IBM die weltweit kleinste SRAM-Speicherzelle präsentieren. Ihre Größe soll bis zu sieben Mal kleiner sein als bislang erhältliche Speicherzellen. Die neue SRAM-Zelle reduziert den Platz für den Speicher auf einem Chip, so dass mehr Speicherkapazität auf der Chip-Fläche zur Verfügung steht oder die Chip-Größe sich verringern lässt. Über 50.000 dieser Speicherzellen lassen sich auf der Fläche von der Größe eines menschlichen Haarendes unterbringen.
+
+Außerdem will IBM eine Technik zeigen, die die Leistung von Transistoren in Halbleitern verdreifacht. Mit Hilfe eines Prozesses, der zur konventionellen CMOS-Technologie kompatibel ist, soll sich die Leistung von Chips und deren elektronischen Systemen deutlich steigern lassen. Die Technik nutzt eine zusätzliche Lage des Elements Germanium im kritischen Bereich des Transistors, in dem die elektrischen Ströme fliessen. Der Einsatz dieses "Strained Germaniums" könnte zukünftig helfen, die Leistung von Chips im 32 Nanometer-Bereich und kleiner zu verbessern.
+  IBM meldet technologische Durchbrüche im Nanobereich an
+ 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Keine passenden Knoten gefunden (((
+ Zukunftstechnologie wird praktisch anwendbar.
+    Neuigkeiten hat IBM dieser Tage nicht nur vom Verkauf seines PC-Geschäfts zu vermelden, sondern auch in Sachen künftiger PC-Technik, genauer gesagt der Nanotechnologie. In der Industrie und den Medien liegt die Aufmerksamkeit bei der Nanotechnologie überwiegend auf ausgefallenen und ausgesprochen futuristischen Beispielen, doch IBM stellt nun praktische Anwendungen vor. In der kommenden Woche auf der IEDM (International Electron Devices Meeting) in San Francisco will IBM die weltweit kleinste SRAM-Speicherzelle präsentieren. Ihre Größe soll bis zu sieben Mal kleiner sein als bislang erhältliche Speicherzellen. Die neue SRAM-Zelle reduziert den Platz für den Speicher auf einem Chip, so dass mehr Speicherkapazität auf der Chip-Fläche zur Verfügung steht oder die Chip-Größe sich verringern lässt. Über 50.000 dieser Speicherzellen lassen sich auf der Fläche von der Größe eines menschlichen Haarendes unterbringen.
+
+Außerdem will IBM eine Technik zeigen, die die Leistung von Transistoren in Halbleitern verdreifacht. Mit Hilfe eines Prozesses, der zur konventionellen CMOS-Technologie kompatibel ist, soll sich die Leistung von Chips und deren elektronischen Systemen deutlich steigern lassen. Die Technik nutzt eine zusätzliche Lage des Elements Germanium im kritischen Bereich des Transistors, in dem die elektrischen Ströme fliessen. Der Einsatz dieses "Strained Germaniums" könnte zukünftig helfen, die Leistung von Chips im 32 Nanometer-Bereich und kleiner zu verbessern.
+  IBM meldet technologische Durchbrüche im Nanobereich an
+ 
+))) 
+
+
+
+Beitrag 585542 (Master
+
+
+Beitrag 528015): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3202 "Windows", 3114 ".NET", 3130 "C#", 3125 "Basic", 3137 "Controls", 3189 "Sprachen", 3120 "ALM", 3134 "Code", 3149 "dotnetpro", 3180 "Projekt"
+
+
+
+Beitrag 585543 (Master
+
+
+Beitrag 528237): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3184 "Server", 3202 "Windows", 3123 "Architektur", 3177 "Plattformen ", 3159 "IDE, Editor", 3163 "Java", 3192 "Tools", 3114 ".NET", 3171 "Objekte", 3201 "Webstack", 3181 "Protokolle"
+
+
+
+Beitrag 585547 (Master
+
+
+Beitrag 527988): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3124 "ASP.NET", 3144 "Delphi", 3171 "Objekte", 3128 "Borland", 3114 ".NET", 3168 "Mobile", 3181 "Protokolle"
+
+
+
+Beitrag 585549 (Master
+
+
+Beitrag 528091): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3123 "Architektur", 3181 "Protokolle"
+
+
+
+Beitrag 590418 (Master
+
+
+Beitrag 541155): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3171 "Objekte", 3189 "Sprachen", 3181 "Protokolle"
+
+
+
+Beitrag 585416 (Master
+
+
+Beitrag 528286): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3114 ".NET", 3124 "ASP.NET", 3158 "Hardware", 3181 "Protokolle", 3137 "Controls", 3138 "Dateiformate"
+
+
+
+Beitrag 585417 (Master
+
+
+Beitrag 528409): Baum 42: Keine passenden Knoten gefunden (((
+ Eine "technical overview" zum Internet Explorer 7, der Teil der inzwischen freigegebenen Vista-Betaversion ist, hat Microsoft im Download-Center zur Verfügung gestellt. Entwickler können sich mithilfe dieses Überblicks schon mal mit den neuen Techniken des Webbrowsers bekannt machen. Dies betrifft im Wesentlichen neue Sicherheitsmechanismen, das so genannte Tabbed Browsing, also das Darstellen mehrerer Webseiten auf jeweils einer Registerkarte im gleichen Fenster, die neue Druckfunktion sowie die RSS-Fähigkeiten.
+
+Info:
+$(LEhttp://www.microsoft.com/downloads/details.aspx?FamilyID=718e9b3a-64fe-4a4c-9ddf-57af0472ead2&DisplayLang=en:http://www.microsoft.com/downloads/details.aspx?FamilyID=718e9b3a-64fe-4a4c-9ddf-57af0472ead2&DisplayLang=en|_blank)$
+  IE 7 kennenlernen
+  Technischer Überblick für Neugierige
+    Datenformat, Webbrowser 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3198 "Webbrowser", 3141 "Datenformat", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585418 (Master
+
+
+Beitrag 528397): Baum 42: Keine passenden Knoten gefunden (((
+ Nun ist es offiziell: Die Betaversion von Longhorn wird am 3. August Entwicklern und IT-Profis zur Verfügung stehen. Außerdem steht nun der Produktname für das neue Windows fest: Windows Vista. Microsoft hat dies im Rahmen eines der jährlich stattfindenden Global Briefings für die Sales- und Marketing-Mitarbeiter verlauten lassen. Vista heißt soviel wie Blick, Sicht, Perspektive und soll wohl "Klarheit in die täglichen Abläufe bringen", so Microsoft. Dazu hatte der PC allerdings schon mehr als zehn Jahre Zeit.
+    Longhorn heißt Vista
+  Neues zu Betaversion und Produktnamen
+  Windows 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3202 "Windows"
+
+
+
+Beitrag 585419 (Master
+
+
+Beitrag 528415): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3124 "ASP.NET", 3195 "Visual Studio", 3190 "SQL Server", 3114 ".NET", 3142 "Datenzugriff", 3184 "Server", 3141 "Datenformat", 3181 "Protokolle"
+
+
+
+Beitrag 585420 (Master
+
+
+Beitrag 528393): Baum 42: Keine passenden Knoten gefunden (((
+ Das Mono-Team hat einen Leitfaden zum Design von Mono-Anwendungen veröffentlicht. Mono ist eine freie Open-Source-Variante des .NET Frameworks, die auf Linux-, Windows- und Unix-Systemen läuft. Der Leitfaden soll helfen, Anwendungen oder Bibliotheken so zu gestalten, dass sie mit anderen Mono-Projekten oder -Komponenten kompatibel ist. Dabei stehen Linux-Gewohnheiten naturgemäß im Vordergrund.
+
+Info:
+$(LEhttp://www.mono-project.com:http://www.mono-project.com|_blank)$
+    Leitfaden für Mono-Anwendungen
+  Damit Software Linux-konform bleibt
+  Mono, .NET, Frameworks, Plattformen, Windows 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3170 "Mono", 3177 "Plattformen ", 3202 "Windows", 3114 ".NET", 3156 "Frameworks", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585421 (Master
+
+
+Beitrag 528391): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3171 "Objekte", 3181 "Protokolle", 3197 "WCF", 3182 "Runtime", 3186 "Sicherheit", 3114 ".NET", 3201 "Webstack"
+
+
+
+Beitrag 585422 (Master
+
+
+Beitrag 528389): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3124 "ASP.NET", 3157 "Grundlagen", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585423 (Master
+
+
+Beitrag 528387): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3140 "Datenbanken", 3202 "Windows", 3177 "Plattformen ", 3189 "Sprachen", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585424 (Master
+
+
+Beitrag 528385): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3142 "Datenzugriff", 3189 "Sprachen", 3195 "Visual Studio", 3190 "SQL Server", 3184 "Server", 3114 ".NET", 3120 "ALM", 3134 "Code", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585439 (Master
+
+
+Beitrag 528357): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3130 "C#", 3148 "Dokumentation", 3189 "Sprachen", 3114 ".NET", 3171 "Objekte", 3193 "User Interface", 3161 "Interface", 3181 "Protokolle"
+
+
+
+Beitrag 585440 (Master
+
+
+Beitrag 528089): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3202 "Windows", 3122 "API", 3177 "Plattformen ", 3171 "Objekte", 3184 "Server", 3192 "Tools", 3181 "Protokolle"
+
+
+
+Beitrag 585441 (Master
+
+
+Beitrag 528047): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3159 "IDE, Editor", 3125 "Basic", 3130 "C#", 3114 ".NET", 3189 "Sprachen", 3171 "Objekte", 3180 "Projekt", 3181 "Protokolle"
+
+
+
+Beitrag 585442 (Master
+
+
+Beitrag 527993): Baum 42: Keine passenden Knoten gefunden (((
+ Im Download-Bereich hat Microsoft ein Word-Dokument zur Windows Firewall zur Verfügung gestellt.
+  Dieses Sicherheitsprogramm wird vom Windows XP Serivce Pack 2 auf dem PC eingerichtet. Der Text erläutert Aufbau und Anwendung der INF-Datei Netfw.inf, welche die Firewall konfiguriert. Administratoren können diese Datei direkt anpassen, um Standardeinstellungen beispielsweise auch schon vor der Installation festzulegen.
+
+Info:
+$(LEhttp://www.microsoft.com/downloads/details.aspx?FamilyID=cb307a1d-2f97-4e63-a581-bf25685b4c43&DisplayLang=en:http://www.microsoft.com/downloads/details.aspx?FamilyID=cb307a1d-2f97-4e63-a581-bf25685b4c43&DisplayLang=en|_blank)$
+  Windows Firewall über INF-Datei steuern
+    Windows, Installation, Word 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3202 "Windows", 3160 "Installation", 3204 "Word", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585443 (Master
+
+
+Beitrag 528029): Baum 42: Keine passenden Knoten gefunden (((
+ Das WWW-Konsortium hat XML Inclusions (XInclude) als Version 1.0 freigegeben. Damit steht auch für XML ein eindeutig defininiertes Verfahren zur Verfügung, um ein Dokument aus verschiedenen Teildokumenten zusammenzusetzen. XInclude legt einen Namensraum xi fest, der nur ein Element enthält: xi:include. Die hauptsächliche Leistung des neuen Standards besteht darin festzulegen, wie zwei XML-Dokumente oder -Fragmente zu einem gültigen Dokument zusammengefügt werden.
+
+Info:
+$(LEhttp://www.w3.org:http://www.w3.org|_blank)$
+  XInclude erweitert Familie der XML-Standards
+    Die Spielregeln für das Verbinden von XML-Dokumenten liegen fest.
+  Sprachen 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3189 "Sprachen", 3181 "Protokolle"
+
+
+
+Beitrag 585444 (Master
+
+
+Beitrag 528095): Baum 42: Keine passenden Knoten gefunden (((
+ "Könnte Microsoft Linux durch Gerichtsverfahren stoppen?" lautete die Umfrage auf www.dotnetpro.de. Das Ergebnis ist klar: 76 Prozent der Teilnehmer ist der Meinung, dass sich Linux nicht mehr stoppen lässt. Und selbst wenn herauskäme, dass Linux Code enthält, der die Rechte dritter verletzt, wäre die Linux-Gemeinde in der Lage, diesen Code schnellstens zu ersetzen (13 Prozent). 
+Allerdings haben auch 6 Prozent großes Vertrauen in die Rechtsabteilung von Microsoft: Sie sind der Meinung, dass der Software-Hersteller einen Weg finden wird, Linux zu stoppen.
+"Linux enthält Technologien, deren Patente bei Microsoft liegen", dieser Meinung schließen sich 5 Prozent an. 
+Die Umfrage lief vom 19.01.2005 bis 04.02.2005. Es nahmen 128 Leser teil. 
+
+Auch die nächste Umfrage steht schon auf www.dotnetpro.de bereit. "Sind Sie sich sicher, dass Ihre entwickelte Software keine Rechte Dritter verletzt?" lautet diesmal die Frage. Kommen Sie also auf www.dotnetpro.de und stimmen Sie ab.
+  Umfrage bringt klares Ergebnis.
+  Linux lässt sich nicht stoppen
+    Plattformen, Code, dotnetpro 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3177 "Plattformen ", 3149 "dotnetpro", 3134 "Code"
+
+
+
+Beitrag 585445 (Master
+
+
+Beitrag 528127): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3124 "ASP.NET", 3203 "Windows Forms", 3171 "Objekte", 3137 "Controls", 3181 "Protokolle"
+
+
+
+Beitrag 585446 (Master
+
+
+Beitrag 528131): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3114 ".NET", 3149 "dotnetpro", 3148 "Dokumentation", 3123 "Architektur", 3142 "Datenzugriff"
+
+
+
+Beitrag 585447 (Master
+
+
+Beitrag 528141): Baum 42: Knotenzuordnungen: 3440 "Update" Baum 43: Keine passenden Knoten gefunden (((
+ Neue Version von List und Label
+    Report-Modul mit neuen Funktionen
+  Voraussichtlich im Juni kommt eine neue Version von List und Label auf den Markt. Die Reportgenerator-Komponente wird Verbesserungen im Designer aufweisen. Außerdem soll sie hierarchische Tabellenstrukturen nun besser abbilden können.
+
+Info:
+$(LEhttp://www.combit.net:www.combit.net|_blank)$
+ 
+))) 
+
+
+
+Beitrag 585448 (Master
+
+
+Beitrag 528143): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3122 "API", 3154 "Exchange", 3184 "Server"
+
+
+
+Beitrag 585449 (Master
+
+
+Beitrag 528023): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3202 "Windows", 3124 "ASP.NET", 3189 "Sprachen", 3140 "Datenbanken", 3184 "Server", 3115 "Access", 3142 "Datenzugriff", 3171 "Objekte", 3199 "Webserver", 3200 "Websites", 3181 "Protokolle"
+
+
+
+Beitrag 585450 (Master
+
+
+Beitrag 528147): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3114 ".NET", 3130 "C#", 3159 "IDE, Editor", 3189 "Sprachen", 3181 "Protokolle"
+
+
+
+Beitrag 585451 (Master
+
+
+Beitrag 528151): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3172 "Office", 3152 "Excel", 3164 "Kommunikation", 3204 "Word", 3187 "SOA", 3184 "Server"
+
+
+
+Beitrag 585452 (Master
+
+
+Beitrag 528145): Baum 42: Keine passenden Knoten gefunden (((
+ Beta 2 von Visual Developer kommt
+  Wann die Beta genau kommt, steht noch nicht fest. Die Bits sind aber auf manchen Rechnern auf dem Microsoft-Stand auf der CeBIT zu sehen.
+    Neue Beta steht abgeblich vor der Tür
+ 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Keine passenden Knoten gefunden (((
+ Beta 2 von Visual Developer kommt
+  Wann die Beta genau kommt, steht noch nicht fest. Die Bits sind aber auf manchen Rechnern auf dem Microsoft-Stand auf der CeBIT zu sehen.
+    Neue Beta steht abgeblich vor der Tür
+ 
+))) 
+
+
+
+Beitrag 585453 (Master
+
+
+Beitrag 528149): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3189 "Sprachen", 3195 "Visual Studio", 3130 "C#", 3125 "Basic", 3114 ".NET", 3134 "Code", 3171 "Objekte", 3180 "Projekt", 3181 "Protokolle"
+
+
+
+Beitrag 585454 (Master
+
+
+Beitrag 528133): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3190 "SQL Server", 3142 "Datenzugriff", 3184 "Server", 3140 "Datenbanken", 3195 "Visual Studio", 3129 "Business", 3199 "Webserver"
+
+
+
+Beitrag 585455 (Master
+
+
+Beitrag 528137): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3171 "Objekte", 3186 "Sicherheit", 3181 "Protokolle"
+
+
+
+Beitrag 585456 (Master
+
+
+Beitrag 528135): Baum 42: Keine passenden Knoten gefunden (((
+   Navision und Axapta werden .NET-fit gemacht.
+  Microsoft will seine aktuellen UnternehmenslÃ¶sungen Navision und Axapta in zwei Schritten in eine auf .NET basierende ERP-LÃ¶sung (ERP: Enterprise Ressource Planning) Ã¼berfÃ¼hren. In der ersten Phase von 2005 bis 2007 sollen .NET-Funktionen in die jeweils neuen Produktversionen einflieÃŸen, beispielsweise rollenbasierte Clients. Deren BenutzeroberflÃ¤chen sollen dabei eng mit den Office-Programmen verzahnt werden. In der zweiten Phase ab 2008 soll dann eine modulare Prozesskonfiguration mÃ¶glich werden. In dieser Phase will Microsoft seinen Entwicklungspartnern ein erweitertes Entwicklerwerkzeug sowie eine .NET-Klassenbibliothek zur VerfÃ¼gung stellen, die eine Reihe von GeschÃ¤ftsprozessen der Unternehmensanwendungen zusammenfasst.
+
+Zeitlich soll das Ganze folgendermaÃŸen ablaufen: Das Service Pack 4 fÃ¼r Axapta 3.0 soll im zweiten Quartal 2005 verfÃ¼gbar sein. Im vierten Quartal soll eine Betaversion von Axapta 4.0 folgen, die fertige Version soll dann in der ersten JahreshÃ¤lfte 2006 auf den Markt kommen. Navision 4.01 soll im dritten Quartal 2005 verfÃ¼gbar sein.
+
+â€žUm unseren Kunden einen sanften Ãœbergang zu ermÃ¶glichen, haben wir uns entschieden, .NET-FunktionalitÃ¤ten in unsere bestehenden GeschÃ¤ftsanwendungen zu integrieren anstatt eine vollkommen neue .NET-ERP-LÃ¶sung zu entwickelnâ€œ, erlÃ¤utert Doug Burgum, Senior Vice President der Microsoft Business Solutions Business Group den angestrebten Zeitplan.
+  Fahrplan fÃ¼r Unternehmenssoftware von Microsoft
+  .NET, Business, Office 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3114 ".NET", 3172 "Office", 3129 "Business"
+
+
+
+Beitrag 585457 (Master
+
+
+Beitrag 528169): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3203 "Windows Forms", 3137 "Controls", 3124 "ASP.NET", 3171 "Objekte", 3189 "Sprachen", 3181 "Protokolle"
+
+
+
+Beitrag 585458 (Master
+
+
+Beitrag 528171): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3120 "ALM", 3159 "IDE, Editor"
+
+
+
+Beitrag 585459 (Master
+
+
+Beitrag 528033): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3189 "Sprachen", 3130 "C#", 3203 "Windows Forms", 3157 "Grundlagen", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585460 (Master
+
+
+Beitrag 528021): Baum 42: Keine passenden Knoten gefunden (((
+ Eindeutiges Ergebnis bei der dotnetpro-Umfrage
+  Papier gewinnt
+  "Wenn ich Software brauche, kaufe ich lieber ..." lautete die Frage, die vom 19.11.2004 bis zum 10.12.2004 auf der dotnetpro-Website zur Abstimmung gestellt war. Das Resultat ist eindeutig. 56 Prozent wollen das gesamte Paket haben inklusive gedruckter Dokumentation. 33 Prozent wollen die Software aber lieber sofort haben und holen sie sich am liebsten per Download aus dem Internet. Nur 10 Prozent sind mit ein CD und elektronischer Doku zufrieden. 
+
+An der Umfrage nahmen 117 Leser teil. 
+
+Auch die nächste Umfrage steht schon auf www.dotnetpro.de bereit. Diesmal ist es eine "weihnachtliche" Frage: "Das steht auf meinem Wunschzettel" lautet sie. Kommen Sie auf www.dotnetpro.de und stimmen Sie ab.
+  Umfrage Softwarekauf
+  dotnetpro, Dokumentation 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3149 "dotnetpro", 3148 "Dokumentation"
+
+
+
+Beitrag 585461 (Master
+
+
+Beitrag 528041): Baum 42: Keine passenden Knoten gefunden (((
+   Python for .NET
+  .NET-Klassen mit "klassischem" Python nutzen
+  Auf der Website der Zope Community steht die Version Beta 4 von Python for .NET zur Verfügung. Python for .NET ist keine Implementierung der Sprache als .NET-Sprache, sondern "nur" die Integration der C-Python-Runtime mit der Common Language Runtime (CLR) des .NET Frameworks, denn Python for .NET erzeugt keinen verwalteten IL-Code aus einem Python-Listing. Dies bedeutet, dass Python-Anwendungen auf beliebige Typen, Komponenten und Dienste der CLR zugreifen können. Diese Typen, Komponenten und Dienste können in einer beliebigen .NET-Sprache entwickelt worden sein, also C#, Visual Basic .NET, Managed C++ oder einer anderen vollwertigen .NET-Sprache. Dagegen hat unter .NET entwickelter Code keinen Zugriff auf die in Python entwickelten Klassen. Dieser Ansatz erlaube es nach Angaben der Entwickler, gleichzeitig sowohl CLR-Dienste als auch bestehende C-Erweiterungen für Python zu nutzen, während die gewohnte Ausführungsgeschwindigkeit beibehalten wird. oDie aktuelle Beta-Version von Python for .NET basiert auf Python 2.4 und nicht mehr auf Python 2.2. Python for .NET unterliegt der Zope Public License.
+
+Info:
+$(LEhttp://www.zope.org/Members/Brian/PythonNet/:http://www.zope.org/Members/Brian/PythonNet/|_blank)$
+  .NET, Basic, C#, Code, Frameworks, Runtime, Sprachen 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3114 ".NET", 3189 "Sprachen", 3125 "Basic", 3130 "C#", 3134 "Code", 3182 "Runtime", 3156 "Frameworks", 3181 "Protokolle"
+
+
+
+Beitrag 585462 (Master
+
+
+Beitrag 527980): Baum 42: Keine passenden Knoten gefunden (((
+   Website bringt monatliche Statistik.
+  Index der Popularität von Programmiersprachen
+  Wer sich für die Popularität von Programmiersprachen interessantm sollte sich www.tiobe.com/tpci.htm ansehen. Hier gibt es eine monatliche Statistik, die auf Anfragen an Google und Yahoo basiert. Hier zeigt sich beispielsweise, dass C und C++ recht stabil sind, Java momentan massiv verliert, Visual Basic immer noch groß im Geschäft ist und C# keinen großen Zuwachs erfährt.
+
+Info:
+$(LEhttp://www.tiobe.com/tpci.htm:www.tiobe.com/tpci.htm|_blank)$
+  Sprachen, Basic, C#, Java, Objekte 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3189 "Sprachen", 3125 "Basic", 3130 "C#", 3163 "Java", 3171 "Objekte"
+
+
+
+Beitrag 585463 (Master
+
+
+Beitrag 528173): Baum 42: Knotenzuordnungen: 3440 "Update" Baum 43: Knotenzuordnungen: 3202 "Windows", 3184 "Server", 3160 "Installation", 3134 "Code", 3158 "Hardware", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585464 (Master
+
+
+Beitrag 528011): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3123 "Architektur", 3174 "Outlook", 3171 "Objekte", 3177 "Plattformen ", 3186 "Sicherheit"
+
+
+
+Beitrag 585499 (Master
+
+
+Beitrag 528101): Baum 42: Knotenzuordnungen: 2785 "Core" Baum 43: Knotenzuordnungen: 3114 ".NET", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585500 (Master
+
+
+Beitrag 528053): Baum 42: Keine passenden Knoten gefunden (((
+ Das Open-Source-Betriebssystem ReactOS ist bei Version 0.2.5 angekommen. Hinter der Bezeichnung ReactOS verbirgt sich nichts anderes als der Versuch, ein freies Windows-NT-kompatibles Betriebssystem zu schaffen, das bestehende Windows-Treiber und -Anwendungen nutzen kann.
+
+Version 0.2.5 soll "erhebliche Verbesserungen im Allgemeinen und bei Netzwerk und Stabilität im Besonderen" zeigen. Die Entwickler nennen vor allem die TCP/IP-Implementierung. Nichtsdestotrotz stehe man noch am Anfang.
+
+Info:
+$(LEhttp://www.reactos.com:http://www.reactos.com|_blank)$
+  ReactOS 0.2.5
+    Freies Windows NT kommt langsam vorwärts.
+  Windows 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3202 "Windows", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585501 (Master
+
+
+Beitrag 528117): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3171 "Objekte", 3189 "Sprachen", 3181 "Protokolle"
+
+
+
+Beitrag 585502 (Master
+
+
+Beitrag 528113): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3202 "Windows", 3163 "Java", 3177 "Plattformen ", 3184 "Server", 3187 "SOA", 3120 "ALM", 3123 "Architektur", 3164 "Kommunikation", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585503 (Master
+
+
+Beitrag 527956): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3114 ".NET", 3195 "Visual Studio", 3190 "SQL Server", 3142 "Datenzugriff", 3184 "Server", 3168 "Mobile", 3181 "Protokolle"
+
+
+
+Beitrag 585504 (Master
+
+
+Beitrag 527954): Baum 42: Keine passenden Knoten gefunden (((
+ Laut Technology Vice President Mike Nash arbeitet Microsoft an einer Anti-Spyware-Software. Sie soll künftig den Rechner vor Spionage-Software schützen. Das Programm soll im Rahmen eines Updates wie dem Service Pack 2 kostenlos verteilt werden. Ein Termin für die Veröffentlichung ist noch nicht bekannt.
+  Schutz vor Spyware.
+  Anti-Spyware von Microsoft
+   
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Keine passenden Knoten gefunden (((
+ Laut Technology Vice President Mike Nash arbeitet Microsoft an einer Anti-Spyware-Software. Sie soll künftig den Rechner vor Spionage-Software schützen. Das Programm soll im Rahmen eines Updates wie dem Service Pack 2 kostenlos verteilt werden. Ein Termin für die Veröffentlichung ist noch nicht bekannt.
+  Schutz vor Spyware.
+  Anti-Spyware von Microsoft
+   
+))) 
+
+
+
+Beitrag 585505 (Master
+
+
+Beitrag 527997): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3140 "Datenbanken", 3142 "Datenzugriff", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585506 (Master
+
+
+Beitrag 527960): Baum 42: Keine passenden Knoten gefunden (((
+   AIT hat XML-Engine, ein Add-On für sein Software-Lokalisierungstool Localize .NET, aktualisiert. Es soll nun beliebige XML-Dateien übersetzen können. Der Nutzer gibt dazu ein Übersetzungsschema an, das definiert, welche Elementinhalte und Attribute zu konvertieren sind. Mithilfe eines Filters lassen sich die XML-Knoten beliebig einschränken. Das Add-On bietet dazu eine grafische Oberfläche an, die die XML-Struktur in einer Baumansicht darstellt. So muss der Übersetzer nicht über XML-Kenntnisse verfügen und kann das Dokument trotzdem sicher bearbeiten.
+
+Die überarbeitete XML-Enginge ist für kurze Zeit separat erhältlich und kostet 463 Euro. Die Premium-Edition von Visual Localize .NET enthält XML-Engine dagegen in der Standardausstattung.
+
+Info:
+$(LEhttp://www.visloc.de:http://www.visloc.de|_blank)$
+  Einfache Übersetzung durch grafische Oberfläche
+  Visual Localize mit neuem Add-On XML-Engine
+  Sprachen, .NET 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3189 "Sprachen", 3114 ".NET", 3181 "Protokolle"
+
+
+
+Beitrag 585507 (Master
+
+
+Beitrag 528067): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3124 "ASP.NET", 3198 "Webbrowser", 3114 ".NET", 3134 "Code", 3139 "Dateisystem", 3140 "Datenbanken", 3142 "Datenzugriff", 3171 "Objekte", 3184 "Server", 3189 "Sprachen", 3181 "Protokolle"
+
+
+
+Beitrag 585508 (Master
+
+
+Beitrag 528123): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3177 "Plattformen ", 3202 "Windows", 3159 "IDE, Editor", 3114 ".NET", 3123 "Architektur", 3171 "Objekte"
+
+
+
+Beitrag 585509 (Master
+
+
+Beitrag 528121): Baum 42: Keine passenden Knoten gefunden (((
+ Programmierer haben keine Rechtsprobleme
+  "Sind Sie sich sicher, dass Ihre entwickelte Software keine Rechte Dritter verletzt?" lautete die Frage, die auf www.dotnetpro.de gestellt war. 44 Prozent antworteten klar: "Nein. Mein Job ist SW-Entwicklung, nicht die Juristerei." 35 Prozent fühlen sich auf der sicheren Seite, da sie nur Standardkomponenten verwenden.
+17 Prozent gaben zu, Nachholbedarf in Sachen Rechtssicherheit bei ihrer Software zu haben. 3 Prozent können sich glücklich schätzen, denn sie haben eine Rechtsabteilung, die sich um solche Dinge kümmert.
+Die Umfrag lief vom 
+04.02.2005 bis 18.02.2005. Es nahmen 116 Leser teil. 
+
+Auch die neue Umfrage steht schon auf www.dotnetpro.de zur Abstimmung bereit. ".NET ist zwar gut, aber ich wünsche mir Verbesserungen." lautet diesmal die provozierende Aussage. Kommen Sie auf www.dotnetpro.de und stimmen Sie ab.
+  Das zeigt eine Umfrage auf www.dotnetpro.de.
+    dotnetpro, .NET 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3149 "dotnetpro", 3114 ".NET"
+
+
+
+Beitrag 585510 (Master
+
+
+Beitrag 528073): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3159 "IDE, Editor", 3124 "ASP.NET", 3130 "C#", 3189 "Sprachen", 3129 "Business", 3134 "Code", 3140 "Datenbanken", 3192 "Tools", 3181 "Protokolle"
+
+
+
+Beitrag 585511 (Master
+
+
+Beitrag 528111): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3124 "ASP.NET", 3199 "Webserver", 3202 "Windows", 3114 ".NET", 3160 "Installation", 3184 "Server", 3189 "Sprachen"
+
+
+
+Beitrag 585526 (Master
+
+
+Beitrag 528215): Baum 42: Keine passenden Knoten gefunden (((
+ Automatische Sicherungskopien im Hintergrund
+  LiveBackup sichert Daten in Echtzeit
+    Die Münchner CycleStor Technology bietet mit LiveBackup eine Backup-Lösung, die permanent den Datenverkehr mit einem Unternehmensnetzwerk analysiert und kontinuierlich aktualisierte Dateien und veränderte Datensätze sichert. Die Daten werden in Echtzeit gesichert, so dass keine Scheduler oder starren Planungszeiten nötig sind. Arbeitet ein mobiles Geräte wie ein Notebooks zeitweise offline, speichert LiveBackup dessen Daten automatisch in einem Cache und überspielt sie bei einem späteren Einloggen im Firmen-LAN sofort auf dem Server. Die Software schickt nur die veränderten Daten ohne redundante Informationen verschlüsselt und komprimiert zum Server. Das CycleStor-Programm lässt sich in bestehende IT-Umgebungen einbinden, sofern diese mit den Betriebssystemen Windows NT, 2000 und 2003 arbeiten. Es erkennt die üblichen Speichermedien wie Tape, Disk oder ROM. LiveBackup ist über den Direktvertrieb des Herstellers erhältlich. Eine Einzelplatzversion kostet etwa 115 Euro, Mehrfachlizenzen fallen je nach Anzahl günstiger aus.
+
+Info:
+$(LEhttp://www.cyclestor.de:http://www.cyclestor.de|_blank)$
+  Windows, Server 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3202 "Windows", 3184 "Server", 3181 "Protokolle"
+
+
+
+Beitrag 585527 (Master
+
+
+Beitrag 528239): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3198 "Webbrowser", 3202 "Windows", 3168 "Mobile", 3181 "Protokolle"
+
+
+
+Beitrag 585528 (Master
+
+
+Beitrag 528099): Baum 42: Keine passenden Knoten gefunden (((
+ Uneraser 2.11 rettet gelöschte Daten
+    DiskInternals Research hat seinen Uneraser in Version 2.11 vorgestellt. Das Utility unterstützt eine ganze Reihe von Speichermedien. DiskInternals Uneraser soll gelöschte Dateien oder ganze Ordner nicht nur auf Festplatten, sonder auch auf Memorysticks, Flashcards, Mp3 Playern, digitalen Diktiergeräten, Video- und Fotokameras und anderen mit dem PC zu verbindenden elektronischen Speichermedien wiederherstellen.
+
+Als echtes Plus betonen die Autoren, dass die Software auch FAT32-Dateien korrekt zurückholen kann, die unter Windows NT/2000/XP gelöscht wurden. Uneraser 2.11 unterstützt Windows 95 bis XP und Windows Server 2003 und die Dateisysteme FAT12, FAT16, FAT32, NTFS (NT 4), NTFS5 (Windows 2000/XP) sowie Hidden FAT12, Hidden FAT16, Hidden FAT32, Hidden NTFS. Unter NTFS und NTFS5 kann das Tool auch komprimierte Dateien wiederherstellen, unter NTFS5 auch verschlüsselte Files. Außerdem ignoriert Uneraser 2.11 unter NTFS 5 die Berechtigungsstufen, die einer Datei zugewiesen sind.
+
+Info:
+$(LEhttp://diskinternals.com:http://diskinternals.com|_blank)$
+  DiskInternals Tool liest alle gängigen Datenträger.
+  Windows, Dateiformate, Server 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3202 "Windows", 3138 "Dateiformate", 3171 "Objekte", 3184 "Server", 3181 "Protokolle"
+
+
+
+Beitrag 585529 (Master
+
+
+Beitrag 528257): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3114 ".NET", 3124 "ASP.NET", 3172 "Office", 3184 "Server", 3202 "Windows", 3122 "API", 3190 "SQL Server", 3142 "Datenzugriff", 3158 "Hardware", 3171 "Objekte", 3201 "Webstack", 3181 "Protokolle"
+
+
+
+Beitrag 585530 (Master
+
+
+Beitrag 528247): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3116 "ADO.NET", 3114 ".NET", 3140 "Datenbanken", 3190 "SQL Server", 3142 "Datenzugriff", 3184 "Server", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 585565 (Master
+
+
+Beitrag 528009): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3159 "IDE, Editor", 3114 ".NET", 3181 "Protokolle"
+
+
+
+Beitrag 585566 (Master
+
+
+Beitrag 528007): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3171 "Objekte", 3189 "Sprachen", 3114 ".NET", 3125 "Basic", 3128 "Borland", 3134 "Code", 3144 "Delphi", 3182 "Runtime", 3181 "Protokolle"
+
+
+
+Beitrag 585571 (Master
+
+
+Beitrag 527991): Baum 42: Knotenzuordnungen: 3440 "Update" Baum 43: Knotenzuordnungen: 3177 "Plattformen ", 3158 "Hardware", 3139 "Dateisystem", 3181 "Protokolle"
+
+
+
+Beitrag 585574 (Master
+
+
+Beitrag 528065): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3190 "SQL Server", 3142 "Datenzugriff", 3184 "Server", 3140 "Datenbanken", 3149 "dotnetpro", 3115 "Access", 3177 "Plattformen "
+
+
+
+Beitrag 585573 (Master
+
+
+Beitrag 528081): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3116 "ADO.NET", 3171 "Objekte", 3114 ".NET", 3115 "Access", 3134 "Code", 3140 "Datenbanken", 3181 "Protokolle"
+
+
+
+Beitrag 591228 (Master
+
+
+Beitrag 541880): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3184 "Server", 3124 "ASP.NET", 3179 "PowerShell", 3189 "Sprachen", 3115 "Access", 3143 "Debug, Trace, Profile", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591231 (Master
+
+
+Beitrag 541882): Baum 42: Knotenzuordnungen: 3440 "Update" Baum 43: Knotenzuordnungen: 3172 "Office", 3125 "Basic", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591233 (Master
+
+
+Beitrag 541884): Baum 42: Knotenzuordnungen: 3440 "Update" Baum 43: Knotenzuordnungen: 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 592474 (Master
+
+
+Beitrag 550465): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3122 "API", 3135 "Code-Tools", 3123 "Architektur", 3171 "Objekte", 3189 "Sprachen", 3201 "Webstack", 3134 "Code", 3181 "Protokolle", 3192 "Tools"
+
+
+
+Beitrag 591167 (Master
+
+
+Beitrag 541800): Baum 42: Keine passenden Knoten gefunden (((
+   Kostenloses Werkzeug zum Schutz gegen Hackerangriffe
+  HP bietet Entwicklern mit SWFScan ein kostenloses Werkzeug zum Schutz vor Hackerangriffen Ã¼ber Adobe-Flash-Anwendungen.
+  Mit dem kostenlosen Scan-Tool HP SWFScan kÃ¶nnen Entwickler von Flash-Anwendungen ihre Webanwendungen vor Hackerangriffen schÃ¼tzen. Entwickler kÃ¶nnen mit HP SWFScan prÃ¼fen, ob sie sicheren Flash-Code programmiert haben, noch bevor sie die Anwendung publizieren. Das Werkzeug ist das erste, das Flash-Applikationen dekompiliert und das Anwendungsverhalten statisch analysiert. Auf diese Weise lassen sich SicherheitslÃ¼cken identifizieren, die mit herkÃ¶mmlichen dynamischen Methoden nicht aufzudecken sind, erklÃ¤rt HP.
+
+Mit HP SWFScan kÃ¶nnen Entwickler auÃŸerdem bekannte SicherheitslÃ¼cken aufspÃ¼ren und zudem die KonformitÃ¤t mit aktuellen Sicherheitsrichtlinien prÃ¼fen. HP hat nach eigenen Angaben inzwischen etwa 4.000 Flash-Anwendungen analysiert â€“ 35 Prozent davon verletzen die Adobe-Sicherheitsrichtlinien. Damit kÃ¶nnen Hacker SicherheitsmaÃŸnahmen umgehen und erhalten uneingeschrÃ¤nkten ZugangÂ  zu sensiblen Daten. Diese LÃ¼cken kÃ¶nnen Entwickler mit HP SWFScan ermitteln und schlieÃŸen, bevor sie zum Sicherheitsproblem werden. [bl]
+
+
+
+Â 
+Â 
+
+Info:
+$(LEhttp://www.hp.com/go/swfscan:http://www.hp.com/go/swfscan|_blank)$
+  Adobe, Code 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3117 "Adobe", 3134 "Code", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591166 (Master
+
+
+Beitrag 541798): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3198 "Webbrowser", 3200 "Websites", 3181 "Protokolle"
+
+
+
+Beitrag 592458 (Master
+
+
+Beitrag 550452): Baum 42: Keine passenden Knoten gefunden (((
+ Tastenkürzel für Visual Studio 2010
+  Wer ständig eine Hand an der Maus hat, der kommt zu nichts, heißt es in Entwicklerkreisen. Viele Tätigkeiten lassen sich sehr viel schneller per Tastenkürzel erledigen, ohne dass dafür die Hände von der Tastatur genommen werden müssen. Listen der gängigen Shortcuts für Visual Studio 2010 hat Microsoft jetzt im PDF-Format zum Download bereitgestellt. Vier PDFs mit je vier Seiten Umfang sind zu haben, je eine für VS 2010 C++, VS 2010 C#, VS 2010 F# und VS 2010 VB. [bl]
+
+
+
+
+Info:
+$(LEhttp://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=92ced922-d505-457a-8c9c-84036160639f:http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=92ced922-d505-457a-8c9c-84036160639f|_blank)$
+    Mithilfe von Tastenkürzeln lässt sich die Codierarbeit deutlich beschleunigen. Microsoft hat jetzt Listen mit den wichtigsten Shortcuts für Visual Studio 2010 zum Laden und Ausdrucken bereitgestellt.
+  Visual Studio, C#, Sprachen 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3189 "Sprachen", 3130 "C#", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591184 (Master
+
+
+Beitrag 541834): Baum 42: Keine passenden Knoten gefunden (((
+   Nach vielen Versionen 0.9.x der freien Implementierung des SSL/TLS-Protokolls ist nun die Version 1.0 erschienen, als Beta mit der Bitte um weitere Tests.
+  OpenSSL ist eine freie Implementierung des SSL/TLS-Protokolls (Secure Sockets Layer/ Transport Layer Security), die zudem Funktionen zur Verwaltung von Zertifikaten und kryptografische Funktionen bietet. Nach langer Vorarbeit ist nun die erste Beta der Version 1.0 erschienen. Alle Details zur neuen Version liefert die Homepage von OpenSSL. [bl]
+
+Info:
+$(LEhttp://www.openssl.org/:http://www.openssl.org/|_blank)$
+  OpenSSL 1.0 Beta veröffentlicht
+  Protokolle 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3181 "Protokolle"
+
+
+
+Beitrag 591183 (Master
+
+
+Beitrag 541832): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3133 "Cloud", 3185 "SharePoint", 3190 "SQL Server", 3172 "Office", 3184 "Server", 3142 "Datenzugriff", 3158 "Hardware", 3168 "Mobile", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591182 (Master
+
+
+Beitrag 541830): Baum 42: Keine passenden Knoten gefunden (((
+ Deutschland-Finale des Imagine Cup 2009
+    Die drei Teilnehmer für das bundesweite Finale des Imagine Cup von Microsoft stehen fest: Atmosférica von der BA Ravensburg, Drinking Water Live von der Uni Duisburg-Essen und Talk to aAqua von der TU Dresden werden im Mai einer Fachjury in Berlin ihre Technologiekonzepte präsentieren. Der Gewinner des Deutschland-Finales bekommt die Gelegenheit sein Projekt beim internationalen Finale in Kairo zu präsentieren.
+
+Das Konzept des Hochschulteams Atmosférica überzeugte im ersten der drei regionalen Finale: Durch gezielte georeferenzierte Analysen der Emissionswerte ihres Autos sollen Fahrer in umweltbewusstem Fahren geschult und so der Schadstoffverbrauch reduziert werden. 
+
+Sieger des Vorentscheids in Düsseldorf und somit ebenfalls Finalteilnehmer ist das Team Drinking Water Live von der Uni Duisburg-Essen mit seinem Internetportal zu Verbesserung der Trinkwasserversorgung in Entwicklungsländern. 
+
+Dritter Finalteilnehmer ist das Team Talk to aAqua von der TU Dresden. Das Team entwickelte eine Sprachsteuerungssoftware, durch die indische Landwirte mit einer Vielzahl von Agrarexperten in Kontakt treten können. Ziel ist die Verbesserung der Anbaumethoden. [bl]
+ 
+
+
+Info:
+$(LEhttp://www.imaginecup.de/:http://www.imaginecup.de/|_blank)$
+  Die Teilnehmer des Deutschland-Finales des Internationalen Studentenwettbewerbs von Microsoft "Imagine Cup 2009" stehen jetzt fest.
+  Projekt 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3180 "Projekt", 3181 "Protokolle"
+
+
+
+Beitrag 591181 (Master
+
+
+Beitrag 541828): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3196 "Vorgehensweisen", 3149 "dotnetpro", 3195 "Visual Studio", 3120 "ALM", 3184 "Server"
+
+
+
+Beitrag 591180 (Master
+
+
+Beitrag 541826): Baum 42: Knotenzuordnungen: 3440 "Update" Baum 43: Knotenzuordnungen: 3125 "Basic", 3163 "Java", 3122 "API", 3189 "Sprachen", 3120 "ALM", 3142 "Datenzugriff", 3171 "Objekte", 3180 "Projekt", 3181 "Protokolle"
+
+
+
+Beitrag 591179 (Master
+
+
+Beitrag 541824): Baum 42: Knotenzuordnungen: 3214 "Workout" Baum 43: Knotenzuordnungen: 3196 "Vorgehensweisen", 3149 "dotnetpro", 3180 "Projekt"
+
+
+
+Beitrag 591178 (Master
+
+
+Beitrag 541822): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3120 "ALM", 3149 "dotnetpro", 3184 "Server", 3196 "Vorgehensweisen", 3181 "Protokolle"
+
+
+
+Beitrag 591177 (Master
+
+
+Beitrag 541820): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3156 "Frameworks", 3170 "Mono", 3189 "Sprachen", 3130 "C#", 3123 "Architektur", 3157 "Grundlagen", 3177 "Plattformen ", 3180 "Projekt", 3181 "Protokolle"
+
+
+
+Beitrag 591176 (Master
+
+
+Beitrag 541818): Baum 42: Keine passenden Knoten gefunden (((
+ Die Bildbearbeitungs-Bibliothek unterstützt x64-Umgebungen.
+  VintaSoft hat seine Bibliothek VintaSoftImaging.NET in der Version 2.1 zur Verfügung gestellt. Hauptmerkmal der neuen Version ist, dass sie auch in nativem x64-Code läuft. Zu den neuen Merkmalen gehört, dass sich die Metadaten von TIF-Bildern nun verändern lassen. Der Image-Viewer bietet jetzt Copy-and-paste-Funktionen; außerdem lässt er sich nun per Code steuern. Außerdem soll das Laden von TIF-Bildern nun schneller vor sich gehen. Dazu kommen die üblichen kleineren Fehlerkorrekturen.
+
+Info:
+$(LEhttp://www.vintasoft.com:http://www.vintasoft.com|_blank)$
+    VintaSoftImaging.NET 2.1
+  Code 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3134 "Code", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591173 (Master
+
+
+Beitrag 541812): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3189 "Sprachen", 3196 "Vorgehensweisen", 3130 "C#", 3163 "Java", 3157 "Grundlagen", 3181 "Protokolle"
+
+
+
+Beitrag 591175 (Master
+
+
+Beitrag 541816): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3170 "Mono", 3124 "ASP.NET", 3130 "C#", 3189 "Sprachen", 3195 "Visual Studio", 3134 "Code", 3159 "IDE, Editor", 3120 "ALM", 3171 "Objekte", 3200 "Websites", 3181 "Protokolle"
+
+
+
+Beitrag 591174 (Master
+
+
+Beitrag 541814): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3130 "C#", 3189 "Sprachen", 3190 "SQL Server", 3142 "Datenzugriff", 3184 "Server", 3114 ".NET", 3199 "Webserver", 3181 "Protokolle"
+
+
+
+Beitrag 591171 (Master
+
+
+Beitrag 541808): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3205 "WPF", 3114 ".NET", 3125 "Basic", 3156 "Frameworks", 3202 "Windows", 3123 "Architektur", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591168 (Master
+
+
+Beitrag 541802): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3184 "Server", 3123 "Architektur", 3134 "Code", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591169 (Master
+
+
+Beitrag 541804): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3130 "C#", 3134 "Code", 3189 "Sprachen", 3195 "Visual Studio", 3198 "Webbrowser", 3125 "Basic", 3156 "Frameworks", 3171 "Objekte", 3180 "Projekt", 3181 "Protokolle"
+
+
+
+Beitrag 591170 (Master
+
+
+Beitrag 541806): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3205 "WPF", 3195 "Visual Studio", 3202 "Windows", 3114 ".NET", 3123 "Architektur", 3129 "Business", 3171 "Objekte", 3192 "Tools", 3181 "Protokolle"
+
+
+
+Beitrag 591172 (Master
+
+
+Beitrag 541810): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3130 "C#", 3171 "Objekte", 3189 "Sprachen", 3120 "ALM", 3123 "Architektur", 3180 "Projekt", 3181 "Protokolle"
+
+
+
+Beitrag 591193 (Master
+
+
+Beitrag 541852): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3128 "Borland", 3189 "Sprachen", 3129 "Business", 3169 "Modelling", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591192 (Master
+
+
+Beitrag 541850): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3172 "Office", 3195 "Visual Studio", 3129 "Business", 3157 "Grundlagen", 3192 "Tools", 3181 "Protokolle"
+
+
+
+Beitrag 591191 (Master
+
+
+Beitrag 541848): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3190 "SQL Server", 3142 "Datenzugriff", 3184 "Server", 3160 "Installation", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591190 (Master
+
+
+Beitrag 541846): Baum 42: Keine passenden Knoten gefunden (((
+ Windows 7 aus VHD-Datei booten
+  Normalerweise sitzt ein virtuelles Betriebssystem als Gast auf einem Hostsystem. Die beiden Betriebssysteme müssen sich Arbeitsspeicher und Prozessorleistung teilen. Windows 7 bietet eine Funktionen namens VHD Boot, welche fü Windows 7 (nahezu) die komplette Rechnerleistung zur Verfügung stellt. Dabei wird kein anderes Betriebssystem gebootet, sondern nur Windows 7. Wie üblich in einer virtuellen Maschnine jedoch aus einer Datei heraus und auch alle von Windows 7 während der Sitzung generierten Daten bleiben in dieser Datei.
+
+Der Link unten führt zu einer detaillierten Anleitung zum Einrichten von Windows 7 VHD Boot. Die Art und Weise, wie das Ganze abläuft, deutet daraufhin, dass es sich dabei nicht um eine offiziell geplante Funktion handelt (hoffentlich), denn dazu ist die Bedienerführung selbst für Microsoft (klicken Sie Start zum Ausschalten) zu katastrophal -- die Installation des VHD Boot versteckt sich hinter "Repair your Computer", später folgt "select NO installation at all" ...  [bl]
+
+
+
+Info:
+$(LEhttp://blogs.msdn.com/knom/archive/2009/04/07/windows-7-vhd-boot-setup-guideline.aspx:http://blogs.msdn.com/knom/archive/2009/04/07/windows-7-vhd-boot-setup-guideline.aspx|_blank)$
+  Dieses Feature von Windows 7 erlaubt es, das Betriebsystem virtuell zu betreiben, gleichzeitig aber die gesamte Rechnerpower zur Verfügung zu haben.
+    Windows, Installation, Plattformen 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3202 "Windows", 3160 "Installation", 3171 "Objekte", 3177 "Plattformen ", 3181 "Protokolle"
+
+
+
+Beitrag 591189 (Master
+
+
+Beitrag 541844): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3200 "Websites", 3159 "IDE, Editor", 3114 ".NET", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591188 (Master
+
+
+Beitrag 541842): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3124 "ASP.NET", 3202 "Windows", 3203 "Windows Forms", 3205 "WPF", 3114 ".NET", 3152 "Excel", 3137 "Controls", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591187 (Master
+
+
+Beitrag 541840): Baum 42: Keine passenden Knoten gefunden (((
+ MSDN Deutschland hat eine speziell für Entwickler angepasste Version des Internet Explorer 8 vorgestellt.
+  Spezielle IE8-Version für Entwickler
+  Die speziell für Entwickler angepasste Version des IE8 wurde von MSDN mit dem kostenfrei erhältlichen Internet Explorer Administration Kit 8 erstellt (http://msdn.microsoft.com/de-de/ie/cc889351.aspx). Dieses Kit taugt auch dazu, die standardisierte Windows Internet Explorer 8-Benutzeroberfläche beim Start für den Benutzer zu konfigurieren, nachdem man Internet Explorer 8 bereits installiert hat. 
+
+MSDN hat für die Anpassung nach eigener Aussage gut drei Dutzend Stunden investiert. Eine detaillierte Beschreibung der Funktionen hat Microsoft-Mitarbeiter Kay Giza in seinem Blog veröffentlicht. [bl]
+
+Info:
+$(LEhttp://www.giza-blog.de/PermaLink,guid,974d04ad-ffbd-4fcb-a20e-38d4aa69c553.aspx:http://www.giza-blog.de/PermaLink,guid,974d04ad-ffbd-4fcb-a20e-38d4aa69c553.aspx|_blank)$
+    Webbrowser, Objekte, Protokolle, Websites, Windows 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3198 "Webbrowser", 3200 "Websites", 3202 "Windows", 3181 "Protokolle", 3171 "Objekte"
+
+
+
+Beitrag 591186 (Master
+
+
+Beitrag 541838): Baum 42: Knotenzuordnungen: 3214 "Workout" Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591185 (Master
+
+
+Beitrag 541836): Baum 42: Keine passenden Knoten gefunden (((
+   Der Microsoft Office Sharepoint Designer 2007 steht nun zum kostenlosen Download bereit.
+  Office SharePoint Designer 2007 kostenlos
+  Mit dem SharePoint Designer können Sie im Lösungsanwendungen auf der SharePoint-Plattform zur Verbesserung der Produktivität und zum Bereitstellen inhaltsreicher Websites erstellen. Er hilft beim Anpassen von SharePoint-Websites und taugt zum Erstellen von Workflows zum Automatisieren von Geschäftsprozessen. Seit mitte dieser Woche bietet Microsoft den SharePoint Designer nun zum kostenlosen Download an. [bl]
+
+
+
+Info:
+$(LEhttp://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=baa3ad86-bfc1-4bd4-9812-d9e710d44f42:http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=baa3ad86-bfc1-4bd4-9812-d9e710d44f42|_blank)$
+  SharePoint, Office, Websites 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3185 "SharePoint", 3172 "Office", 3200 "Websites", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591194 (Master
+
+
+Beitrag 541854): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3135 "Code-Tools", 3114 ".NET", 3125 "Basic", 3134 "Code", 3189 "Sprachen", 3192 "Tools", 3205 "WPF", 3171 "Objekte", 3200 "Websites", 3181 "Protokolle"
+
+
+
+Beitrag 591197 (Master
+
+
+Beitrag 541856): Baum 42: Keine passenden Knoten gefunden (((
+ Micro Focus Data Express 4.0 generiert originalgetreue Testdaten, gewährleistet dabei den Datenschutz und arbeitet mit Windows, Unix und Linux.
+  Originalgetreue Testdaten mit Data Express 4.0
+  Micro Focus Data Express 4.0, ein Tool für die Erzeugung von strukturierten Testdaten aus großen Datenbeständen, ist nun auch auf den Plattformen Windows, Unix und Linux lauffähig. Unternehmen können damit Softwaretests mit originalgetreuen Daten ohne Verletzung des Datenschutzes durchführen und auf diese Weise die Qualität ihrer Software steigern und zugleich Kosten einsparen.
+
+Mit Data Express stellt Micro Focus den Entwicklern ein Werkzeug zur Verfügung, mit dem sie für Testzwecke umfangreiche Subsets aus großen Datenbeständen bilden können. Data Express erzeugt automatisch Testdaten, die die Struktur der Originaldaten abbilden, verändert sie zugleich aber so, dass keine Rückschlüsse auf die ursprünglichen Informationen möglich sind. Die von Data Express verwendeten Regeln für die Maskierung der Daten lassen sich entsprechend der jeweiligen Compliance-Anforderungen anpassen. Durch den Einsatz von Data Express können Unternehmen ihre Software-Tests deutlich verbessern, ohne dabei gegen Datenschutzrichtlinien zu verstoßen. Durch die Reduzierung der notwendigen Testdaten auf etwa zehn Prozent der Originaldaten werden zudem das Management der Daten vereinfacht und die Dauer von Tests verringert. [bl]
+
+
+
+
+Info:
+$(LEhttp://www.microfocus.com/de:http://www.microfocus.com/de|_blank)$
+    Plattformen, Windows 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3177 "Plattformen ", 3202 "Windows", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591200 (Master
+
+
+Beitrag 541858): Baum 42: Keine passenden Knoten gefunden (((
+ Einmal im Jahr steigt mit den Delphi-Tagen ein Treffen für Delphi-Entwickler. Zum fünften Jubiläum der Delphi-Tage finden die Veranstaltung am 5. und 6. Juni 2009  im Hamburger Hafen, genauer auf dem ehemaligen Frachtschiff Cap San Diego statt, das dort als Ausstellungs- und Veranstaltungsschiff vor Anker liegt. Für den 5. Juni 2009 plant die Entwickler-Akademie einen Tag lang Workshops und Live-Demos und am Abend lädt Sybase die Community in das Vereinshaus des FC Sankt Pauli.  
+
+Für den 6. Juni ist ein Tag voller Vorträge rund um die Programmiersprache Delphi geplant. Als Redner erwartet werden David I, Marco Cantú, Joachim Dürr, Bruno Fierens, Oliver Giesen, Sebastian Gingter, Daniel Magin, Bernd Ott, Jeroen Pluimers, Christian Stelzmann, Bernd Ua, Arvid Winkelsdorf, Daniel Wischnewski sowie Matthias Eißing und Sultan Shiffa von  Embarcadero. [bl]
+
+Info:
+$(LEhttp://www.delphi-tage.de:http://www.delphi-tage.de|_blank)$
+  Delphi-Tage in Hamburg
+  Die Delphi-Tage finden in diesem Jahr im Hamburger Hafen statt.
+    Delphi 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3144 "Delphi", 3181 "Protokolle"
+
+
+
+Beitrag 591208 (Master
+
+
+Beitrag 541864): Baum 42: Keine passenden Knoten gefunden (((
+ Das kommende TechTalk-Thema heißt "Multimedia-Inhalte in Ihrer Anwendung" und findet in Hamburg (4. Mai), Karlsruhe (5. Mai), Köln (6. Mai), Berlin (7. Mai) und München (11. Mai) statt (www.microsoft.com/germany/msdn/techtalk/default.mspx). 
+
+Im Juni heißt das Thema der TechTalk-Tour "Parallele Programmierung mit Visual Studio 2010 und Intel Parallel Studio". Dariusz Parys (Microsoft) und Dr. Mario Deilmann (Intel) präsentieren den Vortrag in zwischen dem 8. und dem 30. Juni 2009 in Karlsruhe (8.6.), München (9.6.), Köln (15.6.), Hamburg (22.6.), Berlin (29.6.) und Dresden (30.6.). [bl] 
+
+
+
+
+Info:
+$(LEhttp://msevents.microsoft.com/cui/SearchDisplay.aspx?culture=de-DE#culture=de-DE;eventType=0;sortKey=;sortOrder=;pageEvent=false;hdnInitialCount=;searchcontrol=yes;kwdAny=Parallele%20Programmierung%20:http://msevents.microsoft.com/cui/SearchDisplay.aspx?culture=de-DE#culture=de-DE;eventType=0;sortKey=;sortOrder=;pageEvent=false;hdnInitialCount=;searchcontrol=yes;kwdAny=Parallele%20Programmierung%20|_blank)$
+    TechTalk-Termine im Mai und Juni
+  Die TechTalk-Veranstaltungen beschäftigen sich im Mai mit Multimedia-Inhalten und im Juni mit der Parallelen Programmierung mit Visual Studio 2010 und Intel Parallel Studio.
+  Visual Studio, Objekte 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3195 "Visual Studio", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591203 (Master
+
+
+Beitrag 541860): Baum 42: Knotenzuordnungen: 3212 "Backend" Baum 43: Knotenzuordnungen: 3133 "Cloud", 3134 "Code", 3142 "Datenzugriff", 3171 "Objekte", 3189 "Sprachen", 3181 "Protokolle"
+
+
+
+Beitrag 591205 (Master
+
+
+Beitrag 541862): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3175 "Parallel/asynchron", 3200 "Websites", 3114 ".NET", 3130 "C#", 3189 "Sprachen", 3123 "Architektur", 3134 "Code", 3181 "Protokolle"
+
+
+
+Beitrag 591213 (Master
+
+
+Beitrag 541868): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3125 "Basic", 3189 "Sprachen", 3130 "C#", 3134 "Code", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591211 (Master
+
+
+Beitrag 541866): Baum 42: Keine passenden Knoten gefunden (((
+   Das CodePlex-Projekt Meta Numerics bietet eine .NET-Bibliothek für wissenschaftliche Berechnungen.
+  .NET-Bibliothek für wissenschaftliche Berechnungen
+  Die Bibliothek Meta Numerics liegt in Version 1.0 vor und unterstützt Entwickler beim Implementieren wissenschaftlicher Berechnungen. Die Bibliothek kommt unter anderem auch mit Komplexen Zahlen klar und bietet aufwendige Rechenfunktionen, wie beispielsweise die Gaußsche Fehlerunktion, Gamma,  und Riemannsche Zetafunktion. Dazu kommen vorgefertigte Matrizenfunktionen für normale und quadratische Matritzen. 
+
+Auch für Statistik und Analysis bietet Meta Numerics hilfreiche Methoden, etwa für statischte Tests. Die Bibliothek kann auf CodePlex geladen werden und steht unter der Microsoft Public License (Ms-PL). [bl]
+
+
+
+Info:
+$(LEhttp://metanumerics.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=25535:http://metanumerics.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=25535|_blank)$
+  .NET, Projekt 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3114 ".NET", 3171 "Objekte", 3180 "Projekt", 3181 "Protokolle"
+
+
+
+Beitrag 591577 (Master
+
+
+Beitrag 542116): Baum 42: Keine passenden Knoten gefunden (((
+   Für den 10. Juli 2009 plant Microsoft den Launch der Version 3.0 von Silverlight und Expression.
+  Virtueller Launch-Event zu Silverlight & Expression 3
+  Am 10. Juli 2009 um 10 Uhr Ortszeit (Pacific Time) steigt in San Francisco der Launch Event zu Silverlight 3 und Expression 3. Damit interessierte Entwickler weltweit an dem Event teilnehmen können, soll der Event auch im Internet stattfinden. Wer daran teilhaben möchte, sollte sich die URL www.seethelight.com in seine Bookmarks aufnehmen und immer wieder einmal dort vorbeischauen. [bl]
+
+  .NET, Objekte 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3114 ".NET", 3171 "Objekte"
+
+
+
+Beitrag 591581 (Master
+
+
+Beitrag 542124): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3129 "Business", 3200 "Websites", 3181 "Protokolle"
+
+
+
+Beitrag 591236 (Master
+
+
+Beitrag 541886): Baum 42: Keine passenden Knoten gefunden (((
+ Jellyfish Deep Zoom ist ein Framework zum Einbetten von Deep-Zoom-Fotowelten in Silverlight-2-Anwendungen.
+  Jellyfish Deep Zoom
+    Das Projekt Jellyfish Deep Zoom steht auf CodePlex in Version 1.1 Beta zum kostenlosen Download zur Verfügung. Das Framework zum Einbetten von Deep-Zoom-Fotowelten in Silverlight-2-Anwendungen ist auf die Bedürfnisse von System Integratoren und Webagenturen abgestimmt.
+
+Die Hauptbestandteile von Jellyfish Deep Zoom sind die Client-Bibliothek (DLL) und eine Deep-Zoom-Server-Anwendung für das dynamische Erzeugen von Deep-Zoom-Bildern und -Sammlungen auf dem Server. Entwickelt hat Jellyfish Deep Zoom das japanische Unternehmen 2ndfactory. [bl]
+
+
+
+Info:
+$(LEhttp://jellyfishdz.codeplex.com/:http://jellyfishdz.codeplex.com/|_blank)$
+  .NET, Projekt, Server 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3114 ".NET", 3184 "Server", 3171 "Objekte", 3180 "Projekt", 3181 "Protokolle"
+
+
+
+Beitrag 591218 (Master
+
+
+Beitrag 541872): Baum 42: Keine passenden Knoten gefunden (((
+ Beta von Microsoft Exchange 2010 verfügbar
+  Eine der neuen Funktionen ist die verbesserte Postfach-Navigation. So sucht der Server automatisch E-Mails heraus, die zu einer eingehenden passen. E-Mail-Unterhaltungen (Threads) lassen sich dadurch leichter verfolgen und die Informationen sollen schon beim Eingang der Mail bereitstehen. Lange Wartezeiten bei Suchprozessen müsse der Anwender nicht mehr erdulden.
+
+Exchange 2010 ist darauf ausgelegt, auch auf billigen Festplatten zu laufen. Es sorgt durch eine Art eingebautes Software-RAID für die Ausfallsicherheit. Wachsendes E-Mail-Aufkommen oder Archivlösungen mit Exchange müssen dadurch nicht teurer werden. 
+
+Die finale Version von Exchange Server 2010 soll in der zweiten Jahreshälfte 2009 erhältlich sein.
+
+Info:
+$(LEhttp://www.microsoft.com/exchange/2010:http://www.microsoft.com/exchange/2010|_blank)$
+    Microsoft will die Geschwindigkeit, die Stabilität und die Anwenderfreundlichkeit verbessert haben.
+  Exchange, Plattformen, Server 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3154 "Exchange", 3184 "Server", 3171 "Objekte", 3177 "Plattformen ", 3181 "Protokolle"
+
+
+
+Beitrag 591216 (Master
+
+
+Beitrag 541870): Baum 42: Keine passenden Knoten gefunden (((
+ Microsoft stellt eine Alphaversion seines Logo Testing Kit für Windows-7-Anwendungen bereit.
+  Mit dem Windows 7 Logo Testing Kit, das Microsoft jetzt in einer Alphaversion bereitgestellt hat, können Softwareentwickler prüfen, ob ihre Anwendungen den Windows-7-Logo-Richtlinien entsprechen. 
+
+Eine der Anforderungen für das Logo ist, dass die Software auch auf der 64-Bit-Version von Windows 7 lauffähig ist. Außerdem haben nur Anwendungen die Chance, das Logo zu bekommen, welche digital signiert sind und die Richtlinien für die Benutzerkontensteuerung nicht kompromittieren. [bl]
+
+
+
+Info:
+$(LEhttp://blogs.msdn.com/usisvde/archive/2009/04/13/alpha-version-of-windows-logo-testing-kit-ready-april-14.aspx:http://blogs.msdn.com/usisvde/archive/2009/04/13/alpha-version-of-windows-logo-testing-kit-ready-april-14.aspx|_blank)$
+  Windows 7
+  Logo Testing Kit
+  Windows, Testing 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3202 "Windows", 3191 "Testing", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591217 (Master
+
+
+Beitrag 551440): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3159 "IDE, Editor", 3195 "Visual Studio", 3133 "Cloud", 3202 "Windows", 3114 ".NET", 3152 "Excel", 3172 "Office", 3181 "Protokolle", 3184 "Server", 3185 "SharePoint", 3190 "SQL Server", 3123 "Architektur", 3142 "Datenzugriff", 3115 "Access", 3120 "ALM", 3192 "Tools", 3197 "WCF", 3199 "Webserver"
+
+
+
+Beitrag 591226 (Master
+
+
+Beitrag 541878): Baum 42: Keine passenden Knoten gefunden (((
+ Microsoft Press feiert seinen 25. Geburtstag mit zwei kostenfreien, englischsprachigen e-Books.
+  Nur kurze Zeit, genau bis zum 22. April 2009 bietet Microsoft Press die beiden e-Books im PDF-Format zum kostenlosen Download an. Es handelt sich dabei um das 712 Seiten starke Werk "Windows Small Business Server 2008 Administrator's Companion" (25,4 MByte, http://csna01.libredigital.com/?urws8un4p7), geschrieben von Charlie Russel and Sharon Crawford sowie das Buch von Patrice Pelland mit dem Titel "Microsoft Visual Basic 2008 Express Edition: Build a Program Now!", das 254 Seiten hat (7,7 MByte). 
+
+Zum Anmelden auf den Seiten von Microsoft Press ist eine (kostenlos erhältliche) Windows-Live-ID erforderlich. Ohne Anmeldung steht nur jeweils das erste Kapitel der Bücher zum Download zur Verfügung. [bl]
+
+Info:
+$(LEhttp://co1piltwb.partners.extranet.microsoft.com/mcoeredir/mcoeredirect.aspx?linkId=11673269&s1=90556d06-f342-e2d5-22ea-905ac30c5746:http://co1piltwb.partners.extranet.microsoft.com/mcoeredir/mcoeredirect.aspx?linkId=11673269&s1=90556d06-f342-e2d5-22ea-905ac30c5746|_blank)$
+  Kostenlose e-Books
+    Basic, Business, Objekte, Protokolle, Server, Windows 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3125 "Basic", 3202 "Windows", 3171 "Objekte", 3181 "Protokolle", 3129 "Business", 3184 "Server"
+
+
+
+Beitrag 591221 (Master
+
+
+Beitrag 541874): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3137 "Controls", 3125 "Basic", 3195 "Visual Studio", 3130 "C#", 3166 "Mapping", 3168 "Mobile", 3189 "Sprachen", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591223 (Master
+
+
+Beitrag 541876): Baum 42: Keine passenden Knoten gefunden (((
+ Bibliothek zum Lesen und Schreiben von Excel-Dateien
+  XLware hat Version 2.0 von LibXL vorgestellt, einer Bibliothek zum Lesen und Schreiben von Excel-Dateien. Für die Dateibearbeitung muss keine Version von Excel installiert sein, die Bibliothek liest und schreibt die Dateien direkt. Entwickler können damit neue Kalkulationsblätter erstellen und vorhandene Blätter editieren, Daten daraus lesen und Werte eintragen. 
+
+Besonders hervor hebt Hersteller XLware die Performance der jetzt auch als 64-Bit-Version erhältlichen Bibliothek, sowie die Betriebssystemunabhängigkeit. LibXL untersützt C, C++, C# und andere .NET-Sprachen. Eine kostenlose Testversion steht auf der Seite des Herstellers zum Download bereit. [bl]
+
+
+
+
+
+Info:
+$(LEhttp://www.libxl.com:http://www.libxl.com|_blank)$
+    LibXL 2.0 von XLware ist eine Hochgeschwindigkeitslösung zum Lesen und Schreiben von Excel-Dateien.
+  Excel, .NET, C#, Sprachen 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3152 "Excel", 3189 "Sprachen", 3130 "C#", 3114 ".NET", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 591802 (Master
+
+
+Beitrag 542455): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3122 "API", 3138 "Dateiformate", 3189 "Sprachen", 3171 "Objekte", 3195 "Visual Studio", 3114 ".NET", 3184 "Server", 3193 "User Interface", 3161 "Interface", 3181 "Protokolle"
+
+
+
+Beitrag 594931 (Master
+
+
+Beitrag 553102): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3168 "Mobile", 3114 ".NET", 3171 "Objekte", 3177 "Plattformen ", 3180 "Projekt"
+
+
+
+Beitrag 583671 (Master
+
+
+Beitrag 583670): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583675 (Master
+
+
+Beitrag 583674): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583700 (Master
+
+
+Beitrag 583699): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583702 (Master
+
+
+Beitrag 583701): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583704 (Master
+
+
+Beitrag 583703): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583706 (Master
+
+
+Beitrag 583705): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583708 (Master
+
+
+Beitrag 583707): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583722 (Master
+
+
+Beitrag 583721): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583734 (Master
+
+
+Beitrag 583733): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583738 (Master
+
+
+Beitrag 583737): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583743 (Master
+
+
+Beitrag 583742): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583761 (Master
+
+
+Beitrag 583760): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583769 (Master
+
+
+Beitrag 583768): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583779 (Master
+
+
+Beitrag 583778): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583797 (Master
+
+
+Beitrag 583796): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583836 (Master
+
+
+Beitrag 583835): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583907 (Master
+
+
+Beitrag 583686): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583908 (Master
+
+
+Beitrag 583688): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583909 (Master
+
+
+Beitrag 583690): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583910 (Master
+
+
+Beitrag 583692): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583911 (Master
+
+
+Beitrag 583694): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583913 (Master
+
+
+Beitrag 583709): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583914 (Master
+
+
+Beitrag 583711): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583915 (Master
+
+
+Beitrag 583713): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583917 (Master
+
+
+Beitrag 583717): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583918 (Master
+
+
+Beitrag 583719): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583919 (Master
+
+
+Beitrag 583723): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583921 (Master
+
+
+Beitrag 583727): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583923 (Master
+
+
+Beitrag 583731): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583936 (Master
+
+
+Beitrag 583766): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583949 (Master
+
+
+Beitrag 583798): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583950 (Master
+
+
+Beitrag 583800): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583958 (Master
+
+
+Beitrag 583817): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583962 (Master
+
+
+Beitrag 583825): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583975 (Master
+
+
+Beitrag 583851): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583976 (Master
+
+
+Beitrag 583853): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583977 (Master
+
+
+Beitrag 583855): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583978 (Master
+
+
+Beitrag 583857): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583979 (Master
+
+
+Beitrag 583859): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583980 (Master
+
+
+Beitrag 583861): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583981 (Master
+
+
+Beitrag 583863): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583982 (Master
+
+
+Beitrag 583865): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583983 (Master
+
+
+Beitrag 583867): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 583984 (Master
+
+
+Beitrag 583869): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 584014 (Master
+
+
+Beitrag 583887): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 584020 (Master
+
+
+Beitrag 583883): NOEDIT: Knotenzuordnungen vorhanden
+
+
+
+Beitrag 584084 (Master
+
+
+Beitrag 527053): Baum 42: Keine passenden Knoten gefunden (((
+ Die dotnetpro on tour bietet an einem Tag kompaktes Praxiswissen zur .NET-Entwicklung. Unter dem Motto "No slides, just code!" werden in zwei parallelen Tracks von zwei Teams zwei komplette Anwendungen entwickelt, welche Sie am Abend mit nach Hause nehmen können. Das garantiert einen Wissensvorsprung für den praktischen Einstieg in .NET und den .NET-Programmieralltag.
+
+Sie können sich darauf verlassen, dass Sie bei der dotnetpro on tour die gewohnt gute Qualität erwartet: Sie treffen die Autoren, deren Artikel Sie in dotnetpro lesen. Die führenden Köpfe der deutschen .NET-Szene stellen ihr Know-how für die dotnetpro on tour zur Verfügung.
+
+Nutzen Sie dieses Know-how: Treffen Sie das Team der dotnetro und ihre Autoren am 15. September in München und am 17. September in Düsseldorf auf der dotnetpro on tour!
+
+Info:
+##{"type":"InterRed::Userlink","linktype":"e","linkoffset":0,"ziel_ba_name":"","bid":0,"cid":0,"extern":"http:\/\/www.dotnetpro-on-tour.de","fragment":"","t3uid":0,"page":0,"text":"http:\/\/www.dotnetpro-on-tour.de","target":"_blank","alias":"","_match":"","_custom_params":[]}#!
+  Im September können Sie die dotnetpro erstmals live erleben. Die dotnetpro on tour kommt nach Düsseldorf und München.
+  "Jede Checkbox fordert vom Benutzer eine Entscheidung"
+  Interview mit Golo Roden
+ 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3149 "dotnetpro", 3114 ".NET", 3181 "Protokolle", 3134 "Code", 3167 "Menschen"
+
+
+
+Beitrag 584221 (Master
+
+
+Beitrag 527331): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3178 "PowerPoint", 3198 "Webbrowser", 3171 "Objekte", 3177 "Plattformen ", 3184 "Server", 3181 "Protokolle"
+
+
+
+Beitrag 584238 (Master
+
+
+Beitrag 527365): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3123 "Architektur", 3202 "Windows", 3181 "Protokolle"
+
+
+
+Beitrag 584262 (Master
+
+
+Beitrag 527413): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3128 "Borland", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 584315 (Master
+
+
+Beitrag 527524): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3124 "ASP.NET", 3202 "Windows", 3195 "Visual Studio", 3160 "Installation", 3114 ".NET", 3137 "Controls", 3171 "Objekte", 3181 "Protokolle", 3184 "Server"
+
+
+
+Beitrag 584555 (Master
+
+
+Beitrag 527021): Baum 42: Keine passenden Knoten gefunden (((
+ Vorabveröffentlichung
+  Für Markt + Technik, die Autoren und MSDN Online ist diese Bereitstellung in mehrererlei Hinsicht ein Experiment. Alle Beteiligten hegen jedoch die Hoffnung, dass die Veröffentlichung eines work-in-progress die Leser nicht nur frühzeitig kompetent informiert, sondern zur Steigerung der Qualität des Buches beiträgt. Die Manuskripthäppchen sind bewusst unpoliert und offen für die Diskussion. Die Autoren setzen sich damit vor der Veröffentlichung Leserfragen und Verbesserungsvorschlägen aus und erhoffen im Dialog, wertvolles Feedback für die Anpassung des Manuskripts an die Leserbedürfnisse zu bekommen. Wenden Sie sich mit Fragen und Anregungen bitte an: jliadonet@ralfw.de.
+
+Info:
+$(LEhttp://www.microsoft.com/germany/ms/msdnbiblio/show_all.asp?siteid=600255:www.microsoft.com/germany/ms/msdnbiblio/show_all.asp?siteid=600255|_blank)$
+  Entwicklungsbremse Qualitätsmanagement
+  Das Manuskript der Autoren Ralf Westphal und Christian Weyer zum Thema: Jetzt lerne ich ADO.NET wird vor der Veröffentlichung des Buches zugänglich gemacht.
+ 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3116 "ADO.NET", 3124 "ASP.NET", 3171 "Objekte"
+
+
+
+Beitrag 584579 (Master
+
+
+Beitrag 527009): Baum 42: Knotenzuordnungen: 3214 "Workout" Baum 43: Knotenzuordnungen: 3202 "Windows", 3114 ".NET", 3184 "Server"
+
+
+
+Beitrag 584582 (Master
+
+
+Beitrag 527025): Baum 42: Keine passenden Knoten gefunden (((
+   Kurz nach dem offiziellen Start können Sie .NET 1.1 und den Windows 2003 Server in einer Roadshow live erleben.
+  Anfang Mai tourt Microsoft durch Deutschland und präsentiert gemeinsam mit bekannten Referenten wie den MSDN Regional Directors Bernd Marquardt, Clemens Vasters und Michael Willers das neue .NET Framework 1.1 sowie den Windows 2003 Server.
+
+In zwei parallelen Tracks demonstrieren die verschiedenen Experten die Neuigkeiten für Entwickler und IT-Pros.
+
+Die Roadshow findet zwischen dem 05. und 14.05. in Frankfurt, München, Berlin, Hannover, Karlsruhe und Düsseldort statt (s. Events: http://www.dotnetpro.de/events.aspx). Die Termine in München und Düsseldorf sind bereits ausgebucht.
+
+Info:
+$(LEhttp://www.event-team.com/events/launch2003/:http://www.event-team.com/events/launch2003/|_blank)$
+  Stellenmarkt ate software
+ 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3202 "Windows", 3114 ".NET", 3151 "Events", 3171 "Objekte", 3181 "Protokolle", 3184 "Server", 3149 "dotnetpro"
+
+
+
+Beitrag 584585 (Master
+
+
+Beitrag 527003): Baum 42: Knotenzuordnungen: 3440 "Update" Baum 43: Knotenzuordnungen: 3137 "Controls", 3195 "Visual Studio", 3114 ".NET", 3202 "Windows", 3184 "Server"
+
+
+
+Beitrag 584588 (Master
+
+
+Beitrag 527055): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3129 "Business", 3158 "Hardware", 3171 "Objekte"
+
+
+
+Beitrag 584591 (Master
+
+
+Beitrag 526971): Baum 42: Keine passenden Knoten gefunden (((
+ Ab sofort können Sie alle noch verfügbaren Hefte nachbestellen - einfach online!
+  Einzelheft-Bestellung bei dotnetpro.de
+  Sie haben in unserem Artikelarchiv einen interessanten Artikel gefunden? Sie haben eine alte Ausgabe der dotnetpro verpasst? Kein Problem, denn ab sofort können Sie alle noch verfügbaren Hefte nachbestellen - einfach online!
+
+Info:
+$(LEhttp://www.dotnetpro.de/shop/singleissue.aspx:http://www.dotnetpro.de/shop/singleissue.aspx|_blank)$
+  Neu
+  dotnetpro 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3149 "dotnetpro", 3181 "Protokolle"
+
+
+
+Beitrag 584594 (Master
+
+
+Beitrag 527156): Baum 42: Knotenzuordnungen: 3213 "Tools" Baum 43: Knotenzuordnungen: 3202 "Windows", 3158 "Hardware", 3189 "Sprachen"
+
+
+
+Beitrag 584597 (Master
+
+
+Beitrag 527019): Baum 42: Keine passenden Knoten gefunden (((
+ Die Glück & Kanja Consulting AG wurde zum ersten offiziellen Partner für den Microsoft Internet Security and Acceleration (ISA) Server autorisiert.
+  Erster offizieller Microsoft-ISA-Server-Partner in Europa
+  Der Microsoft ISA Server 2000 bietet als zentrale Firewall zum Internet flexible Kommunikations- und Sicherheitsfunktionen für Unternehmensnetzwerke.
+
+Info:
+$(LEhttp://www.glueckkanja.com:www.glueckkanja.com|_blank)$
+    Server 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3184 "Server", 3171 "Objekte"
+
+
+
+Beitrag 584600 (Master
+
+
+Beitrag 527033): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3171 "Objekte", 3202 "Windows", 3124 "ASP.NET", 3170 "Mono", 3114 ".NET", 3149 "dotnetpro", 3156 "Frameworks", 3181 "Protokolle", 3182 "Runtime", 3184 "Server"
+
+
+
+Beitrag 584602 (Master
+
+
+Beitrag 527023): Baum 42: Knotenzuordnungen: 2784 "Frontend" Baum 43: Knotenzuordnungen: 3202 "Windows", 3114 ".NET", 3184 "Server", 3171 "Objekte", 3181 "Protokolle"
+
+
+
+Beitrag 584606 (Master
+
+
+Beitrag 527031): Baum 42: Keine passenden Knoten gefunden (((
+ Die Buchrezensionen in der dotnetpro
+    Microsoft bietet ab sofort eine 180-Tage-Testversion des Windows Server 2003 an.
+  Die uneingeschränkte Enterprise Edition des neuen Servers kann über das Internet heruntergeladen werden und ist nach einer Online-Freischaltung sofort einsatzbereit. Auch eine CD-Version kann vorbestellt werden.
+
+Info:
+$(LEhttp://www.microsoft.com/windowsserver2003/evaluation/trial/default.mspx:http://www.microsoft.com/windowsserver2003/evaluation/trial/default.mspx|_blank)$
+ 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3202 "Windows", 3171 "Objekte", 3149 "dotnetpro", 3181 "Protokolle", 3184 "Server"
+
+
+
+Beitrag 584608 (Master
+
+
+Beitrag 527027): Baum 42: Knotenzuordnungen: 2783 "Planung" Baum 43: Knotenzuordnungen: 3202 "Windows", 3124 "ASP.NET", 3171 "Objekte", 3198 "Webbrowser", 3123 "Architektur", 3181 "Protokolle"
+
+
+
+Beitrag 584611 (Master
+
+
+Beitrag 527049): Baum 42: Keine passenden Knoten gefunden (((
+ WinZip 9.0 verspricht bessere Verschlüsselung und höhere Komprimierung
+    Code des Mini-Twitter-Frontends Twitty
+  WinZip Computing hat die erste Beta-Version von WinZip 9.0 der Öffentlichkeit zugänglich gemacht - natürlich mit dem Hinweis, dass keine Garantie für fehlerfreies Funktionieren gegeben werden kann. Als wichtigste Verbesserung nennt das Unternehmen die neue Datenverschlüsselung sowie eine höhere Komprimierung. Das herkömmliche Zip-Dateiformat, das auch von WinZip 9.0 weiter unterstützt werden wird, kann maximal 65.535 Dateien in einem Zip-Archiv bei einer Gesamtgröße von 4 Gigabyte enthalten. In WinZip 9.0 werden 64-bit-Erweiterungen des Dateiformates zur Verfügung gestellt. Die höher komprimierten Dateien können lediglich von der neuen Version gelesen werden.
+Das neue Werkzeug arbeitet mit AES-Verschlüsselung mit 128- und 256-bit-Schlüsseln. Zur Entschlüsselung ist momentan WinZip 9.0 erforderlich, allerdings könnten Konkurrenzprodukte bald kompatibel werden. Der Hersteller liefert zu diesem Thema Informationen unter: http://www.winzip.com/aes_info.htm.
+Die endgültige Version von WinZip 9.0 soll noch dieses Jahr auf den Markt kommen. Upgrades von älteren Produktversionen werden kostenlos sein. Neukunden zahlen 29 Dollar.
+
+Info:
+$(LEhttp://www.winzip.com/betawz.cgi:www.winzip.com/betawz.cgi|_blank)$
+ 
+))) , Workflow wird auf Stufe 22 gesetzt Baum 43: Knotenzuordnungen: 3171 "Objekte", 3138 "Dateiformate", 3134 "Code", 3181 "Protokolle", 3200 "Websites"
+
+
